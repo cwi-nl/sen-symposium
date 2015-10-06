@@ -15,10 +15,10 @@ The following program is tentative and not totally complete:
 | 11:45-12:45 | [Young Talent Session](./youngTalent) | TBA | 
 | 12:45-13:45 |  | Lunch & Posters |
 | 13:45-14:15 | [Erik van de Ven (AFAS)](./vandeven) | TBA |
-| 14:15-14:45 | [Frits Vaandrager (Radboud Universiteit) | TBA |
+| 14:15-14:45 | [Frits Vaandrager (Radboud Universiteit)](./vaandrager) | TBA |
 | 14:45-15:15 |  | Coffee & Posters |
-| 15:15-15:45 | [Roel Wieringa (University of Twente) | TBA |
-| 15:45-16:15 | [Jan Friso Groote (TU Eindhoven) | TBA |
+| 15:15-15:45 | [Roel Wieringa (University of Twente)](./wieringa) | TBA |
+| 15:45-16:15 | [Jan Friso Groote (TU Eindhoven)](./groote) | TBA |
 | 16:15-16:45 |  | Coffee & Posters |
-| 16:45-17:30 | [Hans Wanders (CIO Rijk) | TBA |
+| 16:45-17:30 | [Hans Wanders (CIO Rijk)](./wanders) | TBA |
 | 17:30-18:30 |  | Reception | 
