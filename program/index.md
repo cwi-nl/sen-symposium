@@ -20,5 +20,5 @@ The following program is tentative and not totally complete:
 | 15:15-15:45 | [Roel Wieringa (University of Twente)](./wieringa) | TBA |
 | 15:45-16:15 | [Jan Friso Groote (TU Eindhoven)](./groote) | TBA |
 | 16:15-16:45 |  | Coffee & Posters |
-| 16:45-17:30 | [Hans Wanders (CIO Rijk)](./wanders) | TBA |
+| 16:45-17:30 |  TBA | TBA |  
 | 17:30-18:30 |  | Reception | 
