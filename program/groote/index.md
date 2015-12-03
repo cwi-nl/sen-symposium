@@ -3,9 +3,14 @@ layout: default
 published: true
 ---
 
-### Speaker Bio
+### Jan Friso Groote
 
-TBA
+Prof.dr.ir. J.F. Groote (1965) studied computer science at Twente University
+(at that time Technische Hogeschool Twente), obtained a PhD at the
+University of Amsterdam on research executed at the Centre for Mathematics
+and Computer Science in Amsterdam. Since 1997 he is working at
+Eindhoven University of Technology where he occupies a chair in
+software modelling and verification.
 
 ### Modelling and analysis of software before construction pays off.
 
