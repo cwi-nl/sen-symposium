@@ -18,7 +18,7 @@ The following program is tentative and not totally complete:
 | 14:15-14:45 | [Frits Vaandrager (Radboud Universiteit)](./vaandrager) | TBA |
 | 14:45-15:15 |  | Coffee & Posters |
 | 15:15-15:45 | [Roel Wieringa (University of Twente)](./wieringa) | [Empirical Software Engineering, Stamp Collecting, and Design Science](./wieringa) |
-| 15:45-16:15 | [Jan Friso Groote (TU Eindhoven)](./groote) | TBA |
+| 15:45-16:15 | [Jan Friso Groote (TU Eindhoven)](./groote) | [Modelling and analysis of software before construction pays off.](./groote) |
 | 16:15-16:45 |  | Coffee & Posters |
 | 16:45-17:30 | [Michiel van Genuchten](./genuchten) | [Quantifying the Impact of Software](./genuchten) |
 | 17:30-18:30 |  | Reception | 
