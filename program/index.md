@@ -15,7 +15,7 @@ The following program is tentative and not totally complete:
 | 11:45-12:45 | [Young Talent Session](./youngTalent) | TBA | 
 | 12:45-13:45 |  | Lunch & Posters |
 | 13:45-14:15 | [Erik van de Ven (AFAS)](./vandeven) | TBA |
-| 14:15-14:45 | [Frits Vaandrager (Radboud Universiteit)](./vaandrager) | TBA |
+| 14:15-14:45 | [Frits Vaandrager (Radboud Universiteit)](./vaandrager) | [Inference of State Machines](./vaandrager) |
 | 14:45-15:15 |  | Coffee & Posters |
 | 15:15-15:45 | [Roel Wieringa (University of Twente)](./wieringa) | [Empirical Software Engineering, Stamp Collecting, and Design Science](./wieringa) |
 | 15:45-16:15 | [Jan Friso Groote (TU Eindhoven)](./groote) | [Modelling and analysis of software before construction pays off.](./groote) |
