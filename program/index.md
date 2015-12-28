@@ -10,7 +10,7 @@ The following program is tentative and not totally complete:
 | 09:00-09:40 |  | Coffee  & Posters |
 | 09:45-10:00 |  | Welcome  |
 | 10:00-10:45 | [Michael R. Fellows (Bergen University)](./fellows) | [Parameterized Complexity for the Practical Computer Scientist and Algorithms Engineer](./fellows) |
-| 10:45-11:15 | [Andy Zaidman (TU Delft)](./zaidman) | TBA |
+| 10:45-11:15 | [Andy Zaidman (TU Delft)](./zaidman) | [Software Analytics: The Dark Side and the Test Side](./zaidman) |
 | 11:15-11:45 |  | Coffee & Posters | 
 | 11:45-12:45 | [Young Talent Session](./youngTalent) | TBA | 
 | 12:45-13:45 |  | Lunch & Posters |
