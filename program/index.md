@@ -14,7 +14,7 @@ The following program is tentative and not totally complete:
 | 11:15-11:45 |  | Coffee & Posters | 
 | 11:45-12:45 | [Young Talent Session](./youngTalent) | TBA | 
 | 12:45-13:45 |  | Lunch & Posters |
-| 13:45-14:15 | [Erik van de Ven (AFAS)](./vandeven) | TBA |
+| 13:45-14:15 | [Erik van de Ven (AFAS)](./vandeven) | [Ontological modeling of the real world enterprises](./vandeven)  |
 | 14:15-14:45 | [Frits Vaandrager (Radboud Universiteit)](./vaandrager) | [Inference of State Machines](./vaandrager) |
 | 14:45-15:15 |  | Coffee & Posters |
 | 15:15-15:45 | [Roel Wieringa (University of Twente)](./wieringa) | [Empirical Software Engineering, Stamp Collecting, and Design Science](./wieringa) |
