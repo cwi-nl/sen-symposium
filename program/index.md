@@ -22,3 +22,5 @@ This is the final program:
 | 16:15-16:45 |  | Coffee & Posters |
 | 16:45-17:30 | [Michiel van Genuchten](./genuchten) | [Quantifying the Impact of Software](./genuchten) |
 | 17:30-18:30 |  | Reception | 
+
+While you are here, do consider [becoming a member of VERSEN](http://www.versen.nl/register).
