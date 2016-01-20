@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 
-The following program is tentative and not totally complete:
+This is the final program:
 
 | Time | Speaker | Description |
 |----- | ------  | ---------- |
@@ -12,7 +12,7 @@ The following program is tentative and not totally complete:
 | 10:00-10:45 | [Michael R. Fellows (Bergen University)](./fellows) | [Parameterized Complexity for the Practical Computer Scientist and Algorithms Engineer](./fellows) |
 | 10:45-11:15 | [Andy Zaidman (TU Delft)](./zaidman) | [Software Analytics: The Dark Side and the Test Side](./zaidman) |
 | 11:15-11:45 |  | Coffee & Posters | 
-| 11:45-12:45 | [Young Talent Session](./youngTalent) | [Ana-Maria Sutii, Sung-Shik Jongmans and Nikolaos Bezirgiannis](./youngTalent) | 
+| 11:45-12:45 | Young Talent Session | Ana-Maria Sutii, Sung-Shik Jongmans and Nikolaos Bezirgiannis | 
 | 12:45-13:45 |  | Lunch & Posters |
 | 13:45-14:15 | [Erik van de Ven (AFAS)](./vandeven) | [Ontological modeling of the real world enterprises](./vandeven)  |
 | 14:15-14:45 | [Frits Vaandrager (Radboud Universiteit)](./vaandrager) | [Inference of State Machines](./vaandrager) |
