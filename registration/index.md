@@ -4,8 +4,8 @@ title: Registration
 published: true
 ---
 
-Registration is closed now, but feel free to drop in.
+Registrations are open.
 
-<!--
-<iframe src="https://docs.google.com/forms/d/1X5HlM8t-QY2JorP_Bw8fziEmdVE9UQ9Z9SFu_NNvzKw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>-->
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfm8lbiRGodXjaqRbMn9zmHJh7k_DSHqa0Kn7DGepVn3oKeaA/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
