@@ -4,7 +4,7 @@ published: true
 ---
 
 
-#This call aims to attract high-class elevator pitches and posters for the SEN symposium on January 20st, 2017.
+This call aims to attract high-class elevator pitches and posters for the SEN symposium on January 20st, 2017.
 
 We solicit for:
 
@@ -14,7 +14,7 @@ We solicit for:
 
 We look forward to seeing your submissions here: (https://easychair.org/conferences/?conf=sen2017)
 
-##Important dates:##
+**Important dates:**
 
 **Deadline**: before 1-12-2016, anywhere in the world.
 
