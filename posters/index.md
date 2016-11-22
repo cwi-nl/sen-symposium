@@ -4,7 +4,7 @@ published: true
 ---
 
 
-###This call aims to attract high-class elevator pitches and posters for the SEN symposium on January 20<sup>th</sup>, 2017.
+###This call aims to attract high-class elevator pitches and posters for the SEN symposium on January 20<sup>th</sup>, 2017.###
 
 We solicit for:
 
