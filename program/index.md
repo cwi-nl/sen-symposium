@@ -5,8 +5,8 @@ published: true
 
 Below is the program for SEN 2017:
 
-| Time |    | Speaker |    | Description |
-|----- |----| ------  |----| ---------- |
+| Time |     | Speaker |     | Description |
+|----- |-----| ------  |-----| ---------- |
 | 08:30-09:00 | | | | Coffee & Posters |
 | 09:00-09:30 | | | | Welcome + VERSEN report |
 | 09:30-10:15 | | [Felienne Hermans (TU Delft)](./hermans) | | [How kids code: an analysis of 250.000 Scratch programs](./hermans) |
@@ -22,6 +22,7 @@ Below is the program for SEN 2017:
 | 16:15-16:45 | | | | Coffee & Posters |
 | 16:45-17:30 | | Session 4	| | |
 | 17:30-18:30 | | |	| Reception |
+
 
 
 
