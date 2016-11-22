@@ -14,7 +14,7 @@ Below is the program for SEN 2017:
 | 11:00-11:30 |  | Coffee & Posters | 
 | 11:30-12:30 | Young Talent Session |  | 
 | 12:30-13:30 |  | Lunch & Posters |
-| 13:30-14:15 | [Andreas Zeller (Saarland University)](./zeller) |  | 
+| 13:30-14:15 | [Andreas Zeller (Saarland University)](./zeller) | [Mining Input Grammars](./zeller) | 
 | 14:15-14:45 | [Mircea Filip Lungu (University of Groningen)](./lungu) |  |
 | 14:15-14:45 |  | Coffee & Posters |
 | 14:45-15:30 | [Sigrid Eldh (Ericsson)](./eldh) |  |
