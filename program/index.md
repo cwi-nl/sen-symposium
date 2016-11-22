@@ -17,8 +17,8 @@ Below is the program for SEN 2017:
 | 13:30-14:15 | [Andreas Zeller (Saarland University)](./zeller) |  | 
 | 14:15-14:45 | [Mircea Filip Lungu (University of Groningen)](./lungu) |  |
 | 14:15-14:45 |  | Coffee & Posters |
-| 14:45-15:30 | [Sigrid Eldh (Ericsson )](./eldh) |  |
-| 15:30-16:15 | Session 3b	|  |
+| 14:45-15:30 | [Sigrid Eldh (Ericsson)](./eldh) |  |
+| 15:30-16:15 | [Mariëlle Stoelinga (University of Twente)](./stoelinga)	|  |
 | 16:15-16:45 |  | Coffee & Posters |
 | 16:45-17:30 | Session 4	|  |
 | 17:30-18:30 | 	| Reception |
