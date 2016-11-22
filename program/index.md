@@ -10,7 +10,7 @@ Below is the program for SEN 2017:
 | 08:30-09:00 |  | Coffee & Posters |
 | 09:00-09:30 |  | Welcome + VERSEN report |
 | 09:30-10:15 | [Felienne Hermans (TU Delft)](./hermans) | [How kids code: an analysis of 250.000 Scratch programs](./hermans) |
-| 10:15-11:00 | [Bedir Tekinerdogan (Wageningen University)](./tekinerdogan) |
+| 10:15-11:00 | [Bedir Tekinerdogan (Wageningen University)](./tekinerdogan) | |
 | 11:00-11:30 |  | Coffee & Posters | 
 | 11:30-12:30 | Young Talent Session |  | 
 | 12:30-13:30 |  | Lunch & Posters |
