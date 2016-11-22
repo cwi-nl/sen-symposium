@@ -16,9 +16,10 @@ The next SEN symposium is organized by [Centrum Wiskunde & Informatica (CWI)](ht
 
 _Team_
 
-* Frank de Boer
-* Jurgen Vinju
+* Jurgen Vinju (general chair)
 * Slinger Jansen
-* Sjaak Brinkkemper
 * Susanne van Dam
+* Marieke Huisman (program co-chair)
+* Tanja Vos (program co-chair)
+* Alexander Serebrenik (program co-chair)
 
