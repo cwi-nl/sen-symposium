@@ -4,6 +4,7 @@ published: true
 ---
 
 ### Felienne Hermans
+![Alt](/gOoJOcVn.jpg "Felienne Hermans")
 
 ### How kids code: an analysis of 250.000 Scratch programs
 Scratch is an amazingly popular programming language for kids, with 14 million public programs available in their online repository. But, what do kids do in their programs? Are their programs simple or complex? Do they apply programming concepts or do they just play with the blocks? Do kids develop good programming habits? Are there common code patterns?
