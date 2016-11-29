@@ -11,7 +11,7 @@
 {% include menu_item %}
 
 {% assign title="Posters" %}
-{% assign link="/Posters/" %}
+{% assign link="/posters/" %}
 {% include menu_item %}
 
 {% assign title="Venue" %}
