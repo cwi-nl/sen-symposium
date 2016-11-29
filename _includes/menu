@@ -10,7 +10,7 @@
 {% assign link="/registration/" %}
 {% include menu_item %}
 
-{% assign title="Posters" %}
+{% assign title="Call for Contributions" %}
 {% assign link="/posters/" %}
 {% include menu_item %}
 
