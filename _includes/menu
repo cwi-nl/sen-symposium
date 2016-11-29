@@ -11,7 +11,7 @@
 {% include menu_item %}
 
 {% assign title="Call for Contributions" %}
-{% assign link="/posters/" %}
+{% assign link="/Call for Contributions/" %}
 {% include menu_item %}
 
 {% assign title="Venue" %}
