@@ -4,7 +4,7 @@ published: true
 ---
 
 ### Bedir Tekinerdogan
-[![alt text](gOoJOcVn.jpg)](http://www.felienne.com/ "Felienne Hermans")
+[![alt text](Bedir.png)]("Bedir Tekinerdogan")
 
 Bedir Tekinerdogan is full professor and chairholder of the Information Technology group at Wageningen University in The Netherlands. He received his MSc degree and a PhD degree in Computer Science from the University of Twente in The Netherlands.  
 
