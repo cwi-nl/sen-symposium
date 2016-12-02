@@ -4,6 +4,7 @@ published: true
 ---
 
 ### Sigrid Eldh
+[![alt text](gOoJOcVn.jpg)](http://www.felienne.com/ "Felienne Hermans")
 
 Sigrid Eldh has over 20 years experience in the software industry working with a wide
 range of software in different companies. She is a co-founder of SAST, the Swedish
