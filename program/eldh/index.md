@@ -4,16 +4,8 @@ published: true
 ---
 
 ### Sigrid Eldh
-[![alt text](gOoJOcVn.jpg)](http://www.felienne.com/ "Felienne Hermans")
+[![alt text](Sigrid.jpg)]( "Sigrid Eldh")
 
-Sigrid Eldh has over 20 years experience in the software industry working with a wide
-range of software in different companies. She is a co-founder of SAST, the Swedish
-Association for Software Testing and did also start ASTA, the Australian Software
-Testing Association. She has a Masters degree in Computer Science and a degree in
-Psychotherapy and Organisational behaviour. Sigrid is also on the examination board for
-ISEB certification of testers, and the chair for the Swedish National Board for the of
-ISEB certification. She is an author of books in software, testing and management. She
-currently works as a Test Expert and Manager for Ericsson AB. Sigrid was the
-programme chair of EuroStar’99. Sigrid is a frequent speaker at international testing
-conferences and has published many papers throughout the world on software testing and
-related subjects.
+Dr. Sigrid Eldh is a researcher and senior specialist at Ericsson Radio System & Technology, where she leads the Ericsson research on software test and product quality. She is an Adjunct Professor at Carleton University and a Senior Lecturer at Mälardalens University.  Sigrid has more than 30 years of practical experience from the IT-Industry. She has started SAST, ISTQB, and SSTB.
+
+### Testing Ultra Large Complex Systems - Past, Present and Future
