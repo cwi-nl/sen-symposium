@@ -12,7 +12,7 @@ Below is the program for SEN 2017:
 | 09:30-10:15 | | [Felienne Hermans (TU Delft)](./hermans) | | [How kids code: an analysis of 250.000 Scratch programs](./hermans) |
 | 10:15-11:00 | | [Bedir Tekinerdogan (Wageningen University)](./tekinerdogan) | | [Architecting Software-Intensive System-of-Systems](./tekinerdogan) |
 | 11:00-11:30 | | | | Coffee & Posters | 
-| 11:30-12:30 | | Young Talent Session | | | 
+| 11:30-12:30 | | Pitches | | | 
 | 12:30-13:30 | | | | Lunch & Posters |
 | 13:30-14:15 | | [Andreas Zeller (Saarland University)](./zeller) | | [Mining Input Grammars](./zeller) | 
 | 14:15-14:45 | | [Mircea Filip Lungu (University of Groningen)](./lungu) | | |
