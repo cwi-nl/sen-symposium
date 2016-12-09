@@ -6,5 +6,5 @@ published: true
 ### Hans Wanders
 [![alt text](Foto Hans Wanders.jpg)]("Hans Wanders")
 
-Hans Wanders studied mathematics in Eindhoven and then worked at Philips, McKinsey and Randstad. Since 2015 as CIO Rich he is responsible for the optimal use of ICT in the national government. 
+Hans Wanders studied mathematics in Eindhoven and then worked at Philips, McKinsey and Randstad. Since 2015 as Chief Information Officer (CIO) Rijk (Ministerie van Binnenlandse Zaken en Koninkrijksrelaties), he is responsible for the optimal use of ICT in the national government. 
 
