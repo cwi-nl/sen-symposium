@@ -4,7 +4,7 @@ published: true
 ---
 
 ### Mircea Filip Lungu
-[![alt text](DSC00120 %281%29.jpg)]("Mircea Filip Lungu")
+[![alt text](DSC00120.jpg)]("Mircea Filip Lungu")
 
 Mircea Lungu is assistant professor in Software Engineering in the Computer Science Department of the Johann Bernoulli Institute of the Faculty of Mathematics and Natural Sciences of University of Groningen. He is a member of the SEARCH research group and also a member of the DSSC pioneers, a group of researchers focusing on using data science in interdisciplinary research projects. Before coming to the Netherlands he was a senior researcher at the University of Bern, a visting researcher at IBM TJ Watson Research center, and a PhD student at the University of Lugano, in Switzerland. 
 
