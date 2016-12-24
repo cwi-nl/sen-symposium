@@ -15,7 +15,7 @@ Below is the program for SEN 2017:
 | 11:30-12:30 | | [Pitches](./pitches) | | | 
 | 12:30-13:30 | | | | Lunch & [Posters](./posters) |
 | 13:30-14:15 | | [Andreas Zeller (Saarland University)](./zeller) | | [Mining Input Grammars](./zeller) | 
-| 14:15-14:45 | | [Mircea Filip Lungu (University of Groningen)](./lungu) | | |
+| 14:15-14:45 | | [Mircea Filip Lungu (University of Groningen)](./lungu) | | [The Essentiality of Context in Software Analytics](./lungu) |
 | 14:15-14:45 | | | | Coffee & [Posters](./posters) |
 | 14:45-15:30 | | [Sigrid Eldh (Ericsson)](./eldh) | | [Testing Ultra Large Complex Systems - Past, Present and Future](./eldh) |
 | 15:30-16:15 | | [Mariëlle Stoelinga (University of Twente)](./stoelinga)	| | [How risk happens, and stochastic model checking can help](./stoelinga) |
