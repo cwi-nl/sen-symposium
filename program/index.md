@@ -19,7 +19,7 @@ Below is the program for SEN 2017:
 | 14:35-15:20 | | [Sigrid Eldh (Ericsson)](./eldh) | | [Testing Ultra Large Complex Systems - Past, Present and Future](./eldh) | | Tanja Vos, Open University |
 | 15:20-15:40 | | | | Coffee & [Posters](./posters) | | |
 | 15:40-16:25 | | [Mariëlle Stoelinga (University of Twente)](./stoelinga)	| | [How risk happens, and stochastic model checking can help](./stoelinga) | | Slinger Jansen, Utrecht University |
-| 16:25-17:10 | | [Hans Wanders (Ministry of the Interior and Kingdom Relations)](./wanders)	| | [Software in the Dutch governement)](./wanders) | | Slinger Jansen, Utrecht University |
+| 16:25-17:10 | | [Hans Wanders (Ministry of the Interior and Kingdom Relations)](./wanders)	| | [Software in the Dutch governement](./wanders) | | Slinger Jansen, Utrecht University |
 | 17:10-18:10 | | |	| Reception | | |
 
 
