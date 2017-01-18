@@ -21,7 +21,7 @@ Below is the program for SEN 2017:
 | 15:40-16:25 | | [Mariëlle Stoelinga (University of Twente)](./stoelinga)	| | [How risk happens, and stochastic model checking can help](./stoelinga) | | Slinger Jansen, Utrecht University |
 | 16:25-17:10 | | [Hans Wanders (Ministry of the Interior and Kingdom Relations)](./wanders)	| | [Software in the Dutch governement](./wanders) | | Slinger Jansen, Utrecht University |
 | 17:10-17:30 | | |	| Open board meeting | | |
-| 17:10-18:10 | | |	| Reception | | |
+| 17:10-18:10 | | |	| Reception | | |   
 
 
 
