@@ -10,10 +10,10 @@ Below is the program for SEN 2017:
 | 08:30-09:00 | | | | Coffee & [Posters](./posters) | | |
 | 09:00-09:15 | | | | Welcome + VERSEN report | | |
 | 09:15-10:00 | | [Felienne Hermans (TU Delft)](./hermans) | | [How kids code: an analysis of 250.000 Scratch programs](./hermans) | | Alexander Serebrenik, Eindhoven University of Technology |
-| 10:00-10:45 | | [Bedir Tekinerdogan (Wageningen University)](./tekinerdogan) | | [Architecting Software-Intensive System-of-Systems](./tekinerdogan) | |  Marieke Huisman, University of Twente |
+| 10:00-10:45 | | [Andreas Zeller (Saarland University)](./zeller) | | [Mining Input Grammars](./zeller) | | Alexander Serebrenik, Eindhoven University of Technology |
 | 10:45-11:05 | | | | Coffee & [Posters](./posters) | | |
 | 11:05-12:05 | | [Pitches](./pitches) | | |  | Marieke Huisman, University of Twente |
-| 12:05-12:50 | | [Andreas Zeller (Saarland University)](./zeller) | | [Mining Input Grammars](./zeller) | | Alexander Serebrenik, Eindhoven University of Technology |
+| 12:05-12:50 | | [Bedir Tekinerdogan (Wageningen University)](./tekinerdogan) | | [Architecting Software-Intensive System-of-Systems](./tekinerdogan) | |  Marieke Huisman, University of Twente |
 | 12:50-13:50 | | | | Lunch & [Posters](./posters) | | |
 | 13:50-14:35 | | [Mircea Filip Lungu (University of Groningen)](./lungu) | | [The Essentiality of Context in Software Analytics](./lungu) | | Tanja Vos, Open University |
 | 14:35-15:20 | | [Sigrid Eldh (Ericsson)](./eldh) | | [Testing Ultra Large Complex Systems - Past, Present and Future](./eldh) | | Tanja Vos, Open University |
