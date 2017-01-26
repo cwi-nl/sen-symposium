@@ -13,7 +13,7 @@ Below is the program for SEN 2017:
 | 10:00-10:45 | | [Andreas Zeller (Saarland University)](./zeller) | | [Mining Input Grammars](./zeller) | | Alexander Serebrenik, Eindhoven University of Technology | | [pdf](Mining Input Grammars.pdf "Mining Input Grammars") |
 | 10:45-11:05 | | | | Coffee & [Posters](./posters) | | | | |
 | 11:05-12:05 | | [Pitches](./pitches) | | |  | Marieke Huisman, University of Twente | | |
-| 12:05-12:50 | | [Bedir Tekinerdogan (Wageningen University)](./tekinerdogan) | | [Architecting Software-Intensive System-of-Systems](./tekinerdogan) | |  Marieke Huisman, University of Twente | | |
+| 12:05-12:50 | | [Bedir Tekinerdogan (Wageningen University)](./tekinerdogan) | | [Architecting Software-Intensive System-of-Systems](./tekinerdogan) | |  Marieke Huisman, University of Twente | | [pdf](Architecting Software-Intensive System-of-Systems.pdf "Architecting Software-Intensive System-of-Systems") |
 | 12:50-13:50 | | | | Lunch & [Posters](./posters) | | | | |
 | 13:50-14:35 | | [Mircea Filip Lungu (University of Groningen)](./lungu) | | [The Essentiality of Context in Software Analytics](./lungu) | | Tanja Vos, Open University | | [pdf](The Essentiality of Context in Software Analytics.pdf "The Essentiality of Context in Software Analytics") |
 | 14:35-15:20 | | [Sigrid Eldh (Ericsson)](./eldh) | | [Testing Ultra Large Complex Systems - Past, Present and Future](./eldh) | | Tanja Vos, Open University | | |
