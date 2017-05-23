@@ -4,7 +4,7 @@ published: true
 ---
 
 
-This call aims to attract high-class elevator pitches and posters for the SEN symposium on January 20<sup>th</sup>, 2017.
+This call aims to attract high-class elevator pitches and posters for the SEN symposium. [comment]: # on January 20<sup>th</sup>, 2017.
 
 We solicit for:
 
@@ -12,12 +12,12 @@ We solicit for:
 
 **Posters** - We welcome all researchers and research related organizations to present their software-related research/aims/marketing messages on an A[0,1] poster. Please note that the poster sessions will be lengthy enough to engage the audience. All posters will receive a basic sanity check.
 
-We look forward to seeing your submissions [here](https://easychair.org/conferences/?conf=sen2017).
+[comment]: # We look forward to seeing your submissions [here](https://easychair.org/conferences/?conf=sen2017).
 
 **Important dates:**
 
-**Deadline**: before 1-12-2016, anywhere in the world.
+**Deadline**: TBD [comment]: # before 1-12-2016, anywhere in the world.
 
-**Notification**: 1-1-2017, pitches and posters have a high chance of acceptance.
+**Notification**: TBD [comment]: # 1-1-2017, pitches and posters have a high chance of acceptance.
 
 
