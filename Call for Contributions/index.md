@@ -14,8 +14,8 @@ We solicit for:
 
 **Important dates:**
 
-**Deadline**: TBD [comment]: # before 1-12-2016, anywhere in the world.
+**Deadline**: TBD 
 
-**Notification**: TBD [comment]: # 1-1-2017, pitches and posters have a high chance of acceptance.
+**Notification**: TBD 
 
 
