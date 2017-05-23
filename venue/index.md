@@ -3,8 +3,6 @@ layout: default
 published: true
 ---
 
-<a href="http://www.cwi.nl"><img style="float: right; white-space: nowrap" src=logo.png></a>
-
 ## How to reach CWI by car
 
 ### Navigaton system
