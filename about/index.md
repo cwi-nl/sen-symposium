@@ -10,7 +10,7 @@ This is the national symposium for Dutch researchers in the field of _Software E
 
 ### Organization
 
-<img style="float: none;" src="https://www.cwi.nl/sites/all/themes/newCWI/logo.png"/>
+[![alt text](logo.png)](https://www.cwi.nl/ "Centrum Wiskunde & Informatica")
 
 The next SEN symposium is organized by [Centrum Wiskunde & Informatica (CWI)](http://www.cwi.nl) in collaboration with Universiteit Utrecht. CWI is the national research institute for mathematics and computer science in the Netherlands and is an institute of the Netherlands Organisation for Scientific Research ([NWO](http://www.nwo.nl)).
 
