@@ -4,6 +4,7 @@ published: true
 ---
 
 * [2014]
+
 The first Dutch national symposium on software engineering (SEN) was held on December 3<sup>rd</sup>, 2014 in Amsterdam. The topic of the day was "the future of software engineering".
     * [posters](./2014/posters/)
     * [program](./2014/program)
