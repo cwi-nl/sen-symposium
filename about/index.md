@@ -6,7 +6,10 @@ published: true
 
 ## About SEN Symposium
 
-This is the national symposium for Dutch researchers in the field of _Software Engineering_. The goal is to provide a yearly forum bringing all of us researchers in this broad field together and reinforcing our network.  The symposium is focused on the  exchange of research results and to address new research directions, related to the societal challenges we are addressing.
+SEN symposium is organized by VERSEN. VERSEN is the Dutch National Association for Software Engineering. The mission of the VERSEN association is to bring together researchers, educators and practitioners in the field of software engineering in The Netherlands, who share the common goals of advancing the field or software engineering, raising public awareness of the challenges and opportunities of the field, acquiring funding for groundbreaking research, and transferring academic results to broader society.
+
+
+SEN is the national symposium for Dutch researchers in the field of _Software Engineering_. The goal is to provide a yearly forum bringing all of us researchers in this broad field together and reinforcing our network.  The symposium is focused on the  exchange of research results and to address new research directions, related to the societal challenges we are addressing.
 
 ### Organization
 
