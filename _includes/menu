@@ -25,3 +25,7 @@
 {% assign title="About" %}
 {% assign link="/about/" %}
 {% include menu_item %}
+
+{% assign title="VERSEN" %}
+{% assign link="/VERSEN/" %}
+{% include menu_item %}
