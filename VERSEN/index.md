@@ -1,7 +1,2 @@
-<html lang="en-US">
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="refresh" content="0; url=http://versen.nl/">
-        
-    </head>
-</html>
+<a href="http://versen.nl/" target="_blank">
+</a>
