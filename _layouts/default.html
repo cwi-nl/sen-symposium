@@ -101,7 +101,12 @@
             <hr>
 
             <div class="footer" style="position:relative">
-              <p>  <script type="text/JavaScript"> var theDate=new Date() document.write("Copyright" &copy;, theDate.getFullYear(), ", CWI") </script></p>
+              <p> id = "copyright" </p>
+		    <script type="text/JavaScript"> 
+			    var theDate = new Date() 
+			    var copyright = "Copyright" + &copy; + theDate.getFullYear() + ", CWI" 
+			    document.getElementById("copyright").innerHTML = copyright;
+		    </script>
             </div>
          </div>
       </div>
