@@ -24,13 +24,4 @@ Below is tentative program for SEN 2018:
 | 17:10-18:10 | | |	| Reception | | | | |
 
 
-
-
-While you are here, do consider [becoming a member of VERSEN](http://www.versen.nl/register).
-
-
-
-
-
-
 While you are here, do consider [becoming a member of VERSEN](http://www.versen.nl/register).
