@@ -12,7 +12,7 @@ Below is tentative program for SEN 2018:
 | 09:15-10:00 | | Sung-Shik Jongmans(Open University) | | | |  | |  |
 | 10:00-10:45 | | Marieke Huisman (University of Twente) | |  | |  |
 | 10:45-11:05 | | | | Coffee & Posters | | | | |
-| 11:05-12:05 | | [Pitches](./pitches) | | |  | Marieke Huisman, University of Twente | | |
+| 11:05-12:05 | | Pitches | | |  |  | | |
 | 12:05-12:50 | | Pierre America (Philips Research) | |  | |   | |  |
 | 12:50-13:50 | | | | Lunch & Posters | | | | |
 | 13:50-14:35 | | Anna-Lena Lamprecht (Utrecht University) | |  | |  | |  |
