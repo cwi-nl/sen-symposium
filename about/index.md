@@ -15,15 +15,7 @@ SEN is the national symposium for Dutch researchers in the field of _Software En
 The next SEN symposium is organized by [Centrum Wiskunde & Informatica (CWI)](http://www.cwi.nl) in collaboration with Universiteit Utrecht. CWI is the national research institute for mathematics and computer science in the Netherlands and is an institute of the Netherlands Organisation for Scientific Research ([NWO](http://www.nwo.nl)).
 
 _Organising committee_
-<!---
-* Jurgen Vinju (general chair)
-* Slinger Jansen
-* Susanne van Dam
-* Marieke Huisman (program co-chair)
-* Tanja Vos (program co-chair)
-* Alexander Serebrenik (program co-chair)
-* Gururaj Maddodi
--->
+
 
 * Vasilios Andrikopoulos, University of Groningen
 * Marielle Stoelinga (chair), University of Twente & Radboud University
