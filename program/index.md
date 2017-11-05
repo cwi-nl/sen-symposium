@@ -7,7 +7,7 @@ Below is tentative program for SEN 2018:
 
 | Time | | Speaker | | Description | | Chairperson | 
 |----- |-| ------  |-| ----------- |-| ----------- |
-| TBD | | Bogdan Vasilescu (Carnegie Mellon University) | | Keynote Talk | | TBD |
+| TBD | | Bogdan Vasilescu (Carnegie Mellon University) | | Keynote Talk | |  |
 | TBD | | Sung-Shik Jongmans(Open University) | | - | | - |  
 | TBD | | Marieke Huisman (University of Twente) | | - |  | - |
 | TBD | | Pierre America (Philips Research) | | - | |  - | 
