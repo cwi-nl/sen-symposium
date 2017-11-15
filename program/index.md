@@ -16,7 +16,7 @@ Below is tentative program for SEN 2018:
 | 14:15 | | Anna-Lena Lamprecht (Utrecht University) | | Software Engineering for Computational Science | |   | 
 | 12:00 | |  | | PhD pitches | |   | 
 | 12:30 | |  | | Coffee | |   | 
-| 15:45 | | Bogdan Vasilescu (Carnegie Mellon University, winner of the IPA dissertation prize 2015)  | | Signals in Social Coding Environments: What Do They Mean and How Much Can You Trust Them? | |   | 
+| 15:45 | | Bogdan Vasilescu (Carnegie Mellon University, winner of the IPA dissertation prize 2015)  | | Signals in Social Coding Environments: What Do They Mean and How Much Can You Trust Them? (Keynote Talk) | |   | 
 | 16:45 | |  | | Drinks | |   | 
 
 
