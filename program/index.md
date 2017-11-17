@@ -8,7 +8,7 @@ Below is tentative program for SEN 2018:
 | Time | | Speaker | | Description | | Chairperson | 
 |----- |-| ------  |-| ----------- |-| ----------- |
 | 10:00 | | Wolfram Burgard (Freiburg University, awardee of the prestigious Gottfried Wilhelm Leibniz Prize and an ERC Advanced Grant) | | Probabilistic Robotics and Beyond (Keynote Talk) | |  |
-|----- |-| ------  |-| ----------- |-| ----------- |
+ <br />
 | 11:00 | | Marieke Huisman (University of Twente, awardee of a prestigious VICI grant in 2017) | | Verification of concurrent software with VerCors |  |  |
 | 11:30 | | Sung-Shik Jongmans(Open University, winner of the IPA dissertation prize 2016) | | Q: Should we specify interactions, explicitly? A: Yes | |  |  
 | 12:00 | |  | | PhD pitches | |   | 
