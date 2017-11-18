@@ -41,7 +41,7 @@ Below is tentative program for SEN 2018:
 </tr>
 <tr>
 <td style="text-align: left">13:45-14:15</td>
-<td style="text-align: left"><b class="keywords">Pierre America</b> (Principle Architect, Philips Research)</td>
+<td style="text-align: left"><b class="keywords">Pierre America</b> (Principal Architect, Philips Research)</td>
 <td style="text-align: left">Software engineering for digital pathology: people, software, and learning algorithms</td>
 </tr>
 <tr>
