@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 
-Below is tentative program for SEN 2018:
+Below is the program for SEN 2018:
 
 <table class="table borderless nowrap">
 <thead>
