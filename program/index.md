@@ -9,7 +9,7 @@ Below is the program for SEN 2018:
 <thead>
 <tr>
 <th style="text-align: center"><font size="3.5">Time</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-<th style="text-align: center"><font size="3.5">Speaker</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th style="text-align: center"><font size="3.5">Speaker</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
 <th style="text-align: center"><font size="3.5">Title</font></th>
 </tr>
 </thead>
