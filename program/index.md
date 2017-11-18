@@ -63,7 +63,7 @@ Below is tentative program for SEN 2018:
 <td style="text-align: left"><b class="keywords">Bogdan Vasilescu</b> (Carnegie Mellon University, winner of the IPA dissertation prize 2015)</td>
 <td style="text-align: left">Signals in Social Coding Environments: What Do They Mean and How Much Can You Trust Them? (Keynote Talk)</td>
 </tr>
-</tr>
+<tr>
 <td style="text-align: left">16:45-17:30</td>
 <td style="text-align: left"></td>
 <td style="text-align: left">Drinks</td>
