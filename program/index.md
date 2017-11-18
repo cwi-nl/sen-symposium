@@ -10,7 +10,6 @@ Below is tentative program for SEN 2018:
 <th style="text-align: left">Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
 <th style="text-align: left">Speaker</th>
 <th style="text-align: left">Title</th>
-<th style="text-align: left">Slides</th>
 </tr>
 </thead><tbody>
 <tr>
