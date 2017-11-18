@@ -8,9 +8,9 @@ Below is tentative program for SEN 2018:
 <table class="table borderless nowrap">
 <thead>
 <tr>
-<th style="text-align: left">Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
-<th style="text-align: left">Speaker</th>
-<th style="text-align: left">Title</th>
+<th style="text-align: center">Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th style="text-align: center">Speaker</th>
+<th style="text-align: center">Title</th>
 </tr>
 </thead>
 <tbody>
