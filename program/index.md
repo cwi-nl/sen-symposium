@@ -46,7 +46,7 @@ Below is tentative program for SEN 2018:
 </tr>
 <tr>
 <td style="text-align: justify">14:15-14:45</td>
-<td style="text-align: justify"><b class="keywords">Anna-Lena Lamprecht</b> (Utrecht University)</td>
+<td style="text-align: justify"><b class="keywords">Anna-Lena Lamprecht</b> (Utrecht University, Westerdijk Fellow)</td>
 <td style="text-align: justify">Software Engineering for Computational Science</td>
 </tr>
 <tr>
