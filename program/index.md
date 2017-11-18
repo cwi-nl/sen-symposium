@@ -22,12 +22,12 @@ Below is the program for SEN 2018:
 <tr>
 <td style="text-align: justify">11:00-11:30</td>
 <td style="text-align: justify"><b class="keywords">Marieke Huisman</b> (University of Twente, awardee of a prestigious VICI grant in 2017)</td>
-<td style="text-align: justify">Verification of concurrent software with VerCors</td>
+<td style="text-align: justify">Verification of Concurrent Software with VerCors</td>
 </tr>
 <tr>
 <td style="text-align: justify">11:30-12:00</td>
 <td style="text-align: justify"><b class="keywords">Sung-Shik Jongmans</b> (Open University, winner of the IPA dissertation prize 2016)</td>
-<td style="text-align: justify">Q: Should we specify interactions, explicitly? A: Yes</td>
+<td style="text-align: justify">Q: Should We Specify Interactions, Explicitly? A: Yes</td>
 </tr>
 <tr>
 <td style="text-align: justify">12:00-12:30</td>
@@ -42,7 +42,7 @@ Below is the program for SEN 2018:
 <tr>
 <td style="text-align: justify">13:45-14:15</td>
 <td style="text-align: justify"><b class="keywords">Pierre America</b> (Principal Architect, Philips Research)</td>
-<td style="text-align: justify">Software engineering for digital pathology: people, software, and learning algorithms</td>
+<td style="text-align: justify">Software Engineering for Digital Pathology: People, Software, and Learning Algorithms</td>
 </tr>
 <tr>
 <td style="text-align: justify">14:15-14:45</td>
