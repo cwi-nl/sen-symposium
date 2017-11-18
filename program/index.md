@@ -5,7 +5,7 @@ published: true
 
 Below is the program for SEN 2018:
 
-<table class="table borderless nowrap">
+<table class="table borderless nowrap" cellspacing="10">
 <thead>
 <tr>
 <th style="text-align: center"><font size="4">Time</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
