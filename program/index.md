@@ -8,7 +8,7 @@ Below is tentative program for SEN 2018:
 <table class="table borderless nowrap">
 <thead>
 <tr>
-<th style="text-align: left">Time</th>
+<th style="text-align: left">Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
 <th style="text-align: left">Speaker</th>
 <th style="text-align: left">Title</th>
 </tr>
@@ -49,7 +49,8 @@ Below is tentative program for SEN 2018:
 <td style="text-align: left"><b class="keywords">Anna-Lena Lamprecht</b> (Utrecht University)</td>
 <td style="text-align: left">Software Engineering for Computational Science</td>
 </tr>
- <td style="text-align: left">14:45-15:15</td>
+<tr>
+<td style="text-align: left">14:45-15:15</td>
 <td style="text-align: left"></td>
 <td style="text-align: left">PhD Pitches</td>
 </tr>
