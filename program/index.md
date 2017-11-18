@@ -5,13 +5,15 @@ published: true
 
 Below is tentative program for SEN 2018:
 
-<table class="table borderless nowrap"><thead>
+<table class="table borderless nowrap">
+<thead>
 <tr>
-<th style="text-align: left">Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th style="text-align: left">Time</th>
 <th style="text-align: left">Speaker</th>
 <th style="text-align: left">Title</th>
 </tr>
-</thead><tbody>
+</thead>
+<tbody>
 <tr>
 <td style="text-align: left">10:00-11:00</td>
 <td style="text-align: left"><b class="keywords">Wolfram Burgard</b> (Freiburg University, awardee of the prestigious Gottfried Wilhelm Leibniz Prize and an ERC Advanced Grant)</td>
@@ -66,6 +68,7 @@ Below is tentative program for SEN 2018:
 <td style="text-align: left"></td>
 <td style="text-align: left">Drinks</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
 
 While you are here, do consider [becoming a member of VERSEN](http://www.versen.nl/register).
