@@ -8,7 +8,7 @@ Below is the program for SEN 2018:
 <table class="table borderless nowrap">
 <thead>
 <tr>
-<th style="text-align: center"><font size="6">Time</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th style="text-align: center"><font size="6">Time</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
 <th style="text-align: center">Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
 <th style="text-align: center">Title</th>
 </tr>
