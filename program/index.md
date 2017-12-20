@@ -40,32 +40,37 @@ Below is the program for SEN 2018:
 <td style="text-align: justify">Lunch</td>
 </tr>
 <tr>
-<td style="text-align: justify">13:45-14:15</td>
+<td style="text-align: justify">13:45-14:00</td>
+<td style="text-align: justify"></td>
+<td style="text-align: justify">VERSEN Updates</td>
+</tr>
+<tr>
+<td style="text-align: justify">14:00-14:30</td>
 <td style="text-align: justify"><b class="keywords">Pierre America</b> (Principal Architect, Philips Research)</td>
 <td style="text-align: justify">Software Engineering for Digital Pathology: People, Software, and Learning Algorithms</td>
 </tr>
 <tr>
-<td style="text-align: justify">14:15-14:45</td>
+<td style="text-align: justify">14:30-15:00</td>
 <td style="text-align: justify"><b class="keywords">Anna-Lena Lamprecht</b> (Utrecht University, Westerdijk Fellow)</td>
 <td style="text-align: justify">Software Engineering for Computational Science</td>
 </tr>
 <tr>
-<td style="text-align: justify">14:45-15:15</td>
+<td style="text-align: justify">15:00-15:30</td>
 <td style="text-align: justify"></td>
 <td style="text-align: justify">PhD Pitches</td>
 </tr>
 <tr>
-<td style="text-align: justify">15:15-15:45</td>
+<td style="text-align: justify">15:30-16:00</td>
 <td style="text-align: justify"></td>
 <td style="text-align: justify">Coffee</td>
 </tr>
 <tr>
-<td style="text-align: justify">15:45-16:45</td>
+<td style="text-align: justify">16:00-17:00</td>
 <td style="text-align: justify"><b class="keywords">Bogdan Vasilescu</b> (Carnegie Mellon University, winner of the IPA dissertation prize 2015)</td>
 <td style="text-align: justify">Signals in Social Coding Environments: What Do They Mean and How Much Can You Trust Them? (Keynote Talk)</td>
 </tr>
 <tr>
-<td style="text-align: justify">16:45-17:30</td>
+<td style="text-align: justify">17:00-17:45</td>
 <td style="text-align: justify"></td>
 <td style="text-align: justify">Drinks</td>
 </tr>
