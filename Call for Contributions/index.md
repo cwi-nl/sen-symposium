@@ -8,14 +8,21 @@ This call aims to attract high-class elevator pitches and posters for the SEN sy
 
 We solicit for:
 
-**Elevator pitch** - The name 'elevator pitch' reflects the idea that it should be possible to deliver a summary of your work in the time span of an elevator ride, or approximately thirty seconds to three minutes. We aim to accept high quality 3-minute pitches by young researchers (academic age 2-7, including all research years). Please submit your one-page summary of the research work you want to pitch to easychair. Proposals must include topic, presenter, one paragraph CV, and novelty. All pitches will receive a basic sanity check. New ways of engaging the audience are encouraged, voting cards (red and green) will be made available to attendants at the event.
+**Elevator pitch** 
+The SEN Symposium offers young software engineering researchers the opportunity to give a short presentation of their work as an elevator pitch. 
 
-**Posters** - We welcome all researchers and research related organizations to present their software-related research/aims/marketing messages on an A[0,1] poster. Please note that the poster sessions will be lengthy enough to engage the audience. All posters will receive a basic sanity check.
+The name 'elevator pitch' reflects the idea that it should be possible to deliver a summary of your work in the time span of an elevator ride, or approximately thirty seconds to five minutes. We aim to accept high quality short pitches by young researchers (academic age 2-7, including all research years; pitch length should be a 3-6 minutes).
+
+**Posters** 
+We also welcome all researchers and research related organizations to present their software-related research/aims/marketing messages on an A[0,1] poster. Please note that the poster sessions will be lengthy enough to engage the audience. All posters will receive a basic sanity check.
+
+**Submission Guidelines** 
+Please submit your elevator pitch proposal in one page (500 words max) in PDF format. Proposals must include topic, presenter information (name, affiliation, PhD supervisor) together with a short CV, and novelty. Please submit your proposals at https://easychair.org/conferences/?conf=sensym2018
 
 **Important dates:**
 
-**Deadline**: TBD 
+**Submission Deadline**: January 14, 2018, midnight CET
 
-**Notification**: TBD 
+**Notification**: January 16, 2018 
 
 
