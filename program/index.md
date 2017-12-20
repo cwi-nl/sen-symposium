@@ -41,7 +41,7 @@ Below is the program for SEN 2018:
 </tr>
 <tr>
 <td style="text-align: justify">13:45-14:00</td>
-<td style="text-align: justify"></td>
+<td style="text-align: justify"><b class="keywords">Arie van Deursen</b> (Delft University of Technology)</td>
 <td style="text-align: justify">VERSEN Updates</td>
 </tr>
 <tr>
