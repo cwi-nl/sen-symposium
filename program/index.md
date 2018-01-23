@@ -30,8 +30,8 @@ published: true
 </tr>
 <tr>
 <td style="text-align: justify">12:00-12:30</td>
-<td style="text-align: justify"></td>
-<td style="text-align: justify">PhD Pitches</td>
+<td style="text-align: justify"><b class="keywords">Moritz Beller, Önder Babur, Siamak Farshidi, Benjamin Lion, Carianne Pretorius, Maria Kechagia</b></td>
+<td style="text-align: justify">Short Pitches</td>
 </tr>
 <tr>
 <td style="text-align: justify">12:30-13:45</td>
@@ -55,8 +55,8 @@ published: true
 </tr>
 <tr>
 <td style="text-align: justify">15:00-15:30</td>
-<td style="text-align: justify"></td>
-<td style="text-align: justify">PhD Pitches</td>
+<td style="text-align: justify"><b class="keywords">Ankit Kumar Shukla, Kousar Aslam, Joseph Hejderup, Sohon Roy, Hans-Dieter Hiep, Brinda Hampiholi</b></td>
+<td style="text-align: justify">Short Pitches</td>
 </tr>
 <tr>
 <td style="text-align: justify">15:30-16:00</td>
