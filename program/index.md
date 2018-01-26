@@ -55,7 +55,7 @@ published: true
 </tr>
 <tr>
 <td style="text-align: justify">15:15-15:45</td>
-<td style="text-align: justify"><b class="keywords">Ankit Kumar Shukla, Kousar Aslam, Joseph Hejderup, Sohon Roy, Hans-Dieter Hiep, Brinda Hampiholi</b></td>
+<td style="text-align: justify"><b class="keywords">Ankit Kumar Shukla, Kousar Aslam, Joseph Hejderup, Sohon Roy, Hans-Dieter Hiep, Brinda Hampiholi, Thomas Neele</b></td>
 <td style="text-align: justify">Short Pitches</td>
 </tr>
 <tr>
