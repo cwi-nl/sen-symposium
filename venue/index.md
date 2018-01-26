@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 
-The symposium will be in Turing room at CWI.
+The symposium will be in the Turing room at CWI.
 
 ## How to reach CWI by car
 [![alt text](logo.png)](https://www.cwi.nl/ "Centrum Wiskunde & Informatica")
