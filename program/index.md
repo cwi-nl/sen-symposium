@@ -76,4 +76,4 @@ published: true
 </tbody>
 </table>
 
-While you are here, do consider [becoming a member of VERSEN](http://www.versen.nl/register).
+While you are here, do consider [becoming a member of VERSEN](http://versen.nl/user_signup).
