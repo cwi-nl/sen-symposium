@@ -30,7 +30,7 @@ published: true
 </tr>
 <tr>
 <td style="text-align: justify">12:00-12:30</td>
-<td style="text-align: justify"><b class="keywords">Moritz Beller, Onder Babur, Siamak Farshidi, Benjamin Lion, Carianne Pretorius, Maria Kechagia</b></td>
+<td style="text-align: justify"><b class="keywords">Moritz Beller, Önder Babur, Siamak Farshidi, Benjamin Lion, Carianne Pretorius, Maria Kechagia</b></td>
 <td style="text-align: justify">Short Pitches</td>
 </tr>
 <tr>
