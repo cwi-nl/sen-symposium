@@ -16,11 +16,8 @@ The next SEN symposium is organized by [Centrum Wiskunde & Informatica (CWI)](ht
 
 _Organising committee_
 
-
-* Vasilios Andrikopoulos, University of Groningen
-* Marielle Stoelinga (chair), University of Twente & Radboud University
-* Tijs van der Storm, Centrum voor Wiskunde en Informatica & University of Groningen
-* Bedir Tekinerdogan, Wageningen University and Research
-* Tanja Vos, Open University & University of Valencia
-* Tim Willemse, Eindhoven University of Technology
+* Georgios Gousios, TU Delft
+* Sung-Shik Jongmans, Open University of the Netherlands and Imperial College London
+* Anna-Lena Lamprecht (chair), Utrecht University (chair)
+* Tijs van der Storm, Centrum voor Wiskunde en Informatica & University of Groningen (local organisation)
 
