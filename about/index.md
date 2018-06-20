@@ -18,6 +18,6 @@ _Organising committee_
 
 * Georgios Gousios, TU Delft
 * Sung-Shik Jongmans, Open University of the Netherlands and Imperial College London
-* Anna-Lena Lamprecht (chair), Utrecht University (chair)
+* Anna-Lena Lamprecht (chair), Utrecht University 
 * Tijs van der Storm, Centrum voor Wiskunde en Informatica & University of Groningen (local organisation)
 
