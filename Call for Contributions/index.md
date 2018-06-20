@@ -15,12 +15,14 @@ The name 'elevator pitch' reflects the idea that it should be possible to delive
   
 ### Submission Guidelines    
   
-Please submit your elevator pitch proposal in one page (500 words max) in PDF format. Proposals must include topic, presenter information (name, affiliation, PhD supervisor) together with a short CV, and novelty. Please submit your proposals at the following <a href="https://easychair.org/conferences/?conf=sensym2018">Easychair Submission Link</a>.
+Please submit your elevator pitch proposal in one page (500 words max) in PDF format. Proposals must include topic, presenter information (name, affiliation, PhD supervisor) together with a short CV, and novelty. Easychair link for submissions will be available soon.
+
+[comment]: # Please submit your proposals at the following <a href="https://easychair.org/conferences/?conf=sensym2018">Easychair Submission Link</a>.
  
    
 ### Important Dates   
   
-**Submission Deadline**: January 14, 2018, midnight CET  
-**Notification**: January 16, 2018 
+**Submission Deadline**: TBD  
+**Notification**: TBD 
 
 
