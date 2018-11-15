@@ -2,27 +2,18 @@
 layout: default
 published: true
 ---
-
-
-This call aims to attract high-class elevator pitches for SEN symposium. 
-
-### Elevator Pitches   
   
-The SEN Symposium offers young software engineering researchers the opportunity to give a short presentation of their work as an elevator pitch. 
+The SEN symposium invites all software engineering researchers in the Netherlands to contribute to the program. Contributions can be in the form of a poster and/or an “elevator pitch” presentation. Admission will be based on the evaluation of one-page abstracts describing the contribution.
 
-The name 'elevator pitch' reflects the idea that it should be possible to deliver a summary of your work in the time span of an elevator ride, or approximately thirty seconds to five minutes. We aim to accept high quality short pitches by young researchers (academic age 2-7, including all research years; pitch length should be a 3-6 minutes).
-  
-  
-### Submission Guidelines    
-  
-Please submit your elevator pitch proposal in one page (500 words max) in PDF format. Proposals must include topic, presenter information (name, affiliation, PhD supervisor) together with a short CV, and novelty. Easychair link for submissions will be available soon.
+### Pitch Presentations:
+The SEN Symposium offers researchers the opportunity to give a short presentation of their work as an elevator pitch. The name “elevator pitch” reflects the idea that it should be possible to deliver a summary of your work in the time span of an elevator ride, or approximately thirty seconds to five minutes. We aim to accept high quality short pitches by both junior researchers (PhD students and postdocs; 3-6 minutes) and senior researchers (>postdoc; 5-8 minutes).
 
-[comment]: # Please submit your proposals at the following <a href="https://easychair.org/conferences/?conf=sensym2018">Easychair Submission Link</a>.
- 
-   
-### Important Dates   
-  
-**Submission Deadline**: TBD  
-**Notification**: TBD 
+### Posters:
+Instead or in addition to pitch presentations, researchers can present their work on posters that will be on display during the whole day.
 
+### Abstract Submission:
+Please submit your pitch/poster proposal in one page (500 words max) in PDF format. Proposals must include topic, novelty, and presenter information (name, affiliation, short CV or link to web page with the information, name of supervisor for PhD students). Please submit your proposals to <a href=" https://easychair.org/account/signin.cgi?key=80309028.uVcx9T6ipcZZmVFi">SENSym2019 on easyChair</a>.
 
+### Important Dates:
+**Submission Deadline**: January 11, 2019, midnight CET
+**Notification**: January 14, 2019
