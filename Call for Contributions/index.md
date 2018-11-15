@@ -16,4 +16,5 @@ Please submit your pitch/poster proposal in one page (500 words max) in PDF form
 
 ### Important Dates:
 **Submission Deadline**: January 11, 2019, midnight CET
+
 **Notification**: January 14, 2019
