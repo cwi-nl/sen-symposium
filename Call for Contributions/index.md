@@ -12,7 +12,7 @@ The SEN Symposium offers researchers the opportunity to give a short presentatio
 Instead or in addition to pitch presentations, researchers can present their work on posters that will be on display during the whole day.
 
 ### Abstract Submission:
-Please submit your pitch/poster proposal in one page (500 words max) in PDF format. Proposals must include topic, novelty, and presenter information (name, affiliation, short CV or link to web page with the information, name of supervisor for PhD students). Please submit your proposals to <a href=" https://easychair.org/account/signin.cgi?key=80309028.uVcx9T6ipcZZmVFi">SENSym2019 on easyChair</a>.
+Please submit your pitch/poster proposal in one page (500 words max) in PDF format. Proposals must include topic, novelty, and presenter information (name, affiliation, short CV or link to web page with the information, name of supervisor for PhD students). Please submit your proposals to <a href="https://easychair.org/conferences/?conf=sensym2019">SENSym2019 on easyChair</a>.
 
 ### Important Dates:
 **Submission Deadline**: January 11, 2019, midnight CET
