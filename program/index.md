@@ -14,7 +14,7 @@ published: true
 <tbody>
 <tr>
 <td style="text-align: justify">10:00-10:15</td>
-<td style="text-align: justify"><b class="keywords"></td>
+<td style="text-align: justify"></td>
 <td style="text-align: justify">Welcome/Opening</td>
 </tr>
 <tr>
