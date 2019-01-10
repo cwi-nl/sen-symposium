@@ -15,6 +15,6 @@ Instead or in addition to pitch presentations, researchers can present their wor
 Please submit your pitch/poster proposal in one page (500 words max) in PDF format. Proposals must include topic, novelty, and presenter information (name, affiliation, short CV or link to web page with the information, name of supervisor for PhD students). Please submit your proposals to <a href="https://easychair.org/conferences/?conf=sensym2019">SENSym2019 on easyChair</a>.
 
 ### Important Dates:
-**Submission Deadline**: January 11, 2019, midnight CET
+**Submission Deadline(extended)**: January 18, 2019, midnight CET
 
-**Notification**: January 14, 2019
+**Notification**: January 21, 2019
