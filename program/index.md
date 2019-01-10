@@ -25,7 +25,7 @@ Archive for Open Science(<https://www.softwareheritage.org/>)</td>
 </tr>
 <tr>
 <td style="text-align: justify">11:15-11:45</td>
-<td style="text-align: justify"><b class="keywords"></td>
+<td style="text-align: justify"></td>
 <td style="text-align: justify">Coffee/Posters</td>
 </tr>
 <tr>
@@ -88,6 +88,5 @@ at swat engineering (<https://www.swat.engineering/>) and former PhD student at 
 </tbody>
 </table>
 
-Please check back again for more updates.
 
 While you are here, do consider [becoming a member of VERSEN](http://versen.nl/user_signup).
