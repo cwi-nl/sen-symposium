@@ -19,9 +19,9 @@ published: true
 </tr>
 <tr>
 <td style="text-align: justify">10:15-11:15</td>
-<td style="text-align: justify"><b class="keywords"> <a href="www.dicosmo.org/bio.html">Roberto Di Cosmo</a></b> (Computer Science professor at INRIA and director of the Software Heritage initiative)</td>
+<td style="text-align: justify"><b class="keywords"> <a href="https://www.dicosmo.org/bio.html">Roberto Di Cosmo</a></b> (Computer Science professor at INRIA and director of the Software Heritage initiative)</td>
 <td style="text-align: justify">Keynote: Software Heritage: Building the Universal Software 
-Archive for Open Science<a href="https://www.softwareheritage.org/">(https://www.softwareheritage.org/)</a></td>
+Archive for Open Science (<a href="https://www.softwareheritage.org/">https://www.softwareheritage.org/)</a>)</td>
 </tr>
 <tr>
 <td style="text-align: justify">11:15-11:45</td>
@@ -40,12 +40,12 @@ appointed professor of software technology at Utrecht University)</td>
 <td style="text-align: justify">Invited talk: “Effortless Refinement of Data Layouts in Cogent”</td>
 </tr>
 <tr>
-<td style="text-align: justify">12:00-13:30</td>
+<td style="text-align: justify">12:30-13:30</td>
 <td style="text-align: justify"></td>
 <td style="text-align: justify">Lunch/Posters</td>
 </tr>
 <tr>
-<td style="text-align: justify">13:00-14:00</td>
+<td style="text-align: justify">13:30-14:00</td>
 <td style="text-align: justify"><b class="keywords"><a href="https://www.davylandman.nl">Davy Landman</a></b> (CEO 
 at swat engineering (<https://www.swat.engineering/>) and former PhD student at CWI and winner of the IPA dissertation award 2017)</td>
 <td style="text-align: justify"></td>
