@@ -21,7 +21,7 @@ published: true
 <td style="text-align: justify">10:15-11:15</td>
 <td style="text-align: justify"><b class="keywords"> <a href="www.dicosmo.org/bio.html">Roberto Di Cosmo</a></b> (Computer Science professor at INRIA and director of the Software Heritage initiative)</td>
 <td style="text-align: justify">Keynote: Software Heritage: Building the Universal Software 
-Archive for Open Science(<https://www.softwareheritage.org/>)</td>
+Archive for Open Science<a href="https://www.softwareheritage.org/">(https://www.softwareheritage.org/)</a></td>
 </tr>
 <tr>
 <td style="text-align: justify">11:15-11:45</td>
