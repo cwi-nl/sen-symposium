@@ -88,5 +88,6 @@ at <a href="https://www.swat.engineering/">swat engineering</a> and former PhD s
 </tbody>
 </table>
 
+Please check back for more updates.
 
 While you are here, do consider [becoming a member of VERSEN](http://versen.nl/user_signup).
