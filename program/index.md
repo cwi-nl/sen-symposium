@@ -48,7 +48,7 @@ appointed professor of software technology at Utrecht University)</td>
 <td style="text-align: justify">13:30-14:00</td>
 <td style="text-align: justify"><b class="keywords"><a href="https://www.davylandman.nl">Davy Landman</a></b> (CEO 
 at <a href="https://www.swat.engineering/">swat engineering</a> and former PhD student at CWI and winner of the IPA dissertation award 2017)</td>
-<td style="text-align: justify"></td>
+<td style="text-align: justify">Invited talk: "BIRD: a DSL for binary files analysis and anonymization"</td>
 </tr>
 <tr>
 <td style="text-align: justify">14:00-14:30</td>
