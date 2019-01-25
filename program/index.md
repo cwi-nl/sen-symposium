@@ -31,7 +31,7 @@ Archive for Open Science" (<a href="https://www.softwareheritage.org/">https://w
 <tr>
 <td style="text-align: justify">11:45-12:00</td>
 <td style="text-align: justify"><b class="keywords">Vedran Kasalica, Siamak Farshidi, Yaping Luo, Marco di Biase</b></td>
-<td style="text-align: justify">Short Pitches</td>
+<td style="text-align: justify">Pitches</td>
 </tr>
 <tr>
 <td style="text-align: justify">12:00-12:30</td>
