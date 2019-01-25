@@ -30,7 +30,7 @@ Archive for Open Science" (<a href="https://www.softwareheritage.org/">https://w
 </tr>
 <tr>
 <td style="text-align: justify">11:45-12:00</td>
-<td style="text-align: justify"><b class="keywords"></b></td>
+<td style="text-align: justify"><b class="keywords">Vedran Kasalica, Siamak Farshidi, Yaping Luo, Marco di Biase</b></td>
 <td style="text-align: justify">Short Pitches</td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@ at <a href="https://www.swat.engineering/">swat engineering</a> and former PhD s
 <tr>
 <td style="text-align: justify">14:00-14:30</td>
 <td style="text-align: justify"><b class="keywords"><a href="https://www.tudelft.nl/staff/a.panichella/">Annibale Panichella</a></b> (assistant professor in software engineering at TU Delft)</td>
-<td style="text-align: justify"></td>
+<td style="text-align: justify">Invited talk: "Speeding-up Software Testing using Computational intelligence"</td>
 </tr>
 <tr>
 <td style="text-align: justify">14:30-15:00</td>
@@ -67,7 +67,7 @@ at <a href="https://www.swat.engineering/">swat engineering</a> and former PhD s
 </tr>
 <tr>
 <td style="text-align: justify">15:15-15:45</td>
-<td style="text-align: justify"><b class="keywords"></b></td>
+<td style="text-align: justify"><b class="keywords">Enrique Larios Vargas, Önder Babur, Fabiano  Dalpiaz, Benjamin Lion</b></td>
 <td style="text-align: justify">Pitches</td>
 </tr>
 <tr>
