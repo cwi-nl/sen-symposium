@@ -31,7 +31,7 @@ Archive for Open Science" (<a href="https://www.softwareheritage.org/">https://w
 <tr>
 <td style="text-align: justify">11:45-12:00</td>
 <td style="text-align: justify"><b class="keywords">Vedran Kasalica, Siamak Farshidi, Yaping Luo, Marco di Biase</b></td>
-<td style="text-align: justify">Pitches</td>
+<td style="text-align: justify">Pitches: Implementing Efficient Workflow Synthesis Algorithms Using SAT Solving Techniques, A Decision Support System for Software Architecture Pattern Selection, Re-engineering the bank for the future, The Delta Maintainability Model: Measuring Maintainability of Fine-Grained Code Changes</td>
 </tr>
 <tr>
 <td style="text-align: justify">12:00-12:30</td>
@@ -68,7 +68,7 @@ at <a href="https://www.swat.engineering/">swat engineering</a> and former PhD s
 <tr>
 <td style="text-align: justify">15:15-15:45</td>
 <td style="text-align: justify"><b class="keywords">Enrique Larios Vargas, Önder Babur, Fabiano  Dalpiaz, Benjamin Lion</b></td>
-<td style="text-align: justify">Pitches</td>
+<td style="text-align: justify">Pitches: Real-time software analytics: Enhancing the decision-making process in software projects, A Portal for Model Clone Detection Research, On the synergies between humans and AI: The case of requirements engineering, Diagnosis in distributed systems: illustration with the Tic-Tac-Toe game</td>
 </tr>
 <tr>
 <td style="text-align: justify">15:45-16:15</td>
