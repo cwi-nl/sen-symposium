@@ -6,13 +6,16 @@ published: true
 Program and content of previous SEN symposiums can be found below,
 
 * [2018]
+    * [program](./2019/program) 
+
+* [2018]
     * [program](./2018/program) 
 
 * [2017]
     * [program](./2017/program) 
     
 * [2016]
-    * [program](./2016/program)     
+    * [program](./2016/program)
 
 * [2014]
     * [posters](./2014/posters/)
