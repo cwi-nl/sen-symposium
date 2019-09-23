@@ -12,13 +12,14 @@ Dutch software engineering community.
 
 We expect to offer talks by the following invited speakers:
 
-* Wil van der Aalst, RWTH Aachen University
-* Vasilios Andrikopoulos, University of Groningen
-* Dino Distefano, Facebook
-* Alexandra Silva, University College London
-* Tanja Vos, Open University
-* Jan van Zoest, Royal Philips
-
+<ul>
+<li> Wil van der Aalst, RWTH Aachen University </li>
+<li> Vasilios Andrikopoulos, University of Groningen </li>
+<lin> Dino Distefano, Facebook </li>
+<lin> Alexandra Silva, University College London </li>
+<lin> Tanja Vos, Open University </li>
+<li> Jan van Zoest, Royal Philips </li>
+</ul>
 The SEN Symposium is organized by <a href="http://www.versen.nl/">VERSEN</a>.
 
 
