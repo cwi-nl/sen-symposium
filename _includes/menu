@@ -2,6 +2,10 @@
 {% assign link="/" %}
 {% include menu_item %}
 
+{% assign title="About" %}
+{% assign link="/about/" %}
+{% include menu_item %}
+
 {% assign title="Program" %}
 {% assign link="/program/" %}
 {% include menu_item %}
@@ -20,10 +24,6 @@
 
 {% assign title="History" %}
 {% assign link="/history/" %}
-{% include menu_item %}
-
-{% assign title="About" %}
-{% assign link="/about/" %}
 {% include menu_item %}
 
 {% assign title="VERSEN" %}
