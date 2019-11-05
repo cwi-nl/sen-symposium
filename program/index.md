@@ -9,7 +9,7 @@ from the following speakers:
 * Wil van der Aalst, RWTH Aachen University
 * Vasilios Andrikopoulos, University of Groningen
 * Dino Distefano, Facebook
+* Veelasha Moonsamy, Radboud University
 * Alexandra Silva, University College London
-* Tanja Vos, Open University
 * Jan van Zoest, Royal Philips
 
