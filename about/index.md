@@ -16,8 +16,8 @@ The next SEN symposium is organized by [Centrum Wiskunde & Informatica (CWI)](ht
 
 _Organising committee_
 
+* Yanja Dajsuren, Eindhoven University of Technology
 * Jorge Pérez, University of Groningen
 * Wouter Swierstra, Utrecht University
-* Yanja Yanja Dajsuren, Eindhoven University of Technology
 * Tijs van der Storm, Centrum voor Wiskunde en Informatica & University of Groningen (local organisation)
 

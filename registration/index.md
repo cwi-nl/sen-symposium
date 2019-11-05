@@ -9,4 +9,5 @@ published: true
 [comment]: # width="760" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 
-Registration for the next symposium is currently closed.
+Participation will be free of charge, but we do ask all attendees to
+register beforehand. The registration link will be made available soon.

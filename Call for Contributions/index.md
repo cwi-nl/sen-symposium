@@ -2,41 +2,55 @@
 layout: default
 published: true
 ---
-  
-<!-- The SEN symposium invites all software engineering researchers in the -->
-<!-- Netherlands to contribute to the program. Contributions can be in the -->
-<!-- form of a poster and/or an “elevator pitch” presentation. Admission -->
-<!-- will be based on the evaluation of one-page abstracts describing the -->
-<!-- contribution. -->
 
-<!-- ### Pitch Presentations: -->
+The next annual Software Engineering Nederland (SEN) symposium will
+take place on Friday, January 31st, 2020 at CWI in Amsterdam
 
-<!-- The SEN Symposium offers researchers the opportunity to give a short -->
-<!-- presentation of their work as an elevator pitch. The name “elevator -->
-<!-- pitch” reflects the idea that it should be possible to deliver a -->
-<!-- summary of your work in the time span of an elevator ride, or -->
-<!-- approximately thirty seconds to five minutes. We aim to accept high -->
-<!-- quality short pitches by both junior researchers (PhD students and -->
-<!-- postdocs; 3-6 minutes) and senior researchers (>postdoc; 5-8 minutes). -->
+The symposium is organized by VERSEN, the [Dutch National Association
+for Software Engineering](https://www.versen.nl/). The program will
+feature invited presentations, contributed “lightning talks” and will
+include plenty of time for discussions and networking.
 
-<!-- ### Posters: -->
+### Invited Speakers
 
-<!-- Instead or in addition to pitch presentations, researchers can present -->
-<!-- their work on posters that will be on display during the whole day. -->
+* Wil van der Aalst (RWTH Aachen University, Germany)
+* Vasilios Andrikopoulos (University of Groningen, The Netherlands)
+* Dino Distefano (Facebook, UK)
+* Veelasha Moonsamy (Radboud University, The Netherlands) 
+* Alexandra Silva (University College London, UK)
+* Jan van Zoest (Royal Philips, The Netherlands) 
 
-<!-- ### Abstract Submission: -->
 
-<!-- Please submit your pitch/poster proposal in one page (500 words max) -->
-<!-- in PDF format. Proposals must include topic, novelty, and presenter -->
-<!-- information (name, affiliation, short CV or link to web page with the -->
-<!-- information, name of supervisor for PhD students). Please submit your -->
-<!-- proposals to <a -->
-<!-- href="https://easychair.org/conferences/?conf=sensym2019">SENSym2019 -->
-<!-- on easyChair</a>. -->
+### Call for Lightning Talks
 
-<!-- ### Important Dates: -->
-<!-- **Submission Deadline(extended)**: January 18, 2019, midnight CET -->
+We invite all software engineering researchers in the Netherlands to
+contribute to the symposium program. We welcome proposals for
+“lightning talks” - short but engaging presentations, to be allocated
+between 5 and 10 minutes at the symposium.
 
-<!-- **Notification**: January 21, 2019 -->
+There is no specific format for lightning talks. Still, they should be
+aimed to the broad VERSEN audience. An exciting lightning talk may,
+for instance:
 
-We will be announcing a call for contributions in the fall of 2019.
+* describe recently published results; 
+* present open research problems (and/or ongoing efforts to tackle
+them); 
+* summarize a recently concluded PhD dissertation; 
+* recently granted (or started) research projects; 
+* motivate a “call to arms” for the broad VERSEN community.  
+
+There will be a (lightweight) evaluation of one-page talk proposals
+(PDF) describing the envisioned presentation at the symposium. At
+submission time, authors can indicate whether they would also like to
+present a poster to complement their proposed talk.  Please submit
+your one-page proposal (PDF) using EasyChair:
+
+https://easychair.org/conferences/?conf=sensymposium2020 
+
+### Important Dates 
+
+Submission of talk proposals: December 13
+
+Notification: January 3, 2020 (or earlier) 
+
+We look forward to seeing you at the SEN symposium!
