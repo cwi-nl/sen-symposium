@@ -16,8 +16,8 @@ We expect to offer talks by the following invited speakers:
 <li> Wil van der Aalst, RWTH Aachen University </li>
 <li> Vasilios Andrikopoulos, University of Groningen </li>
 <li> Dino Distefano, Facebook </li>
+<li> Veelasha Moonsamy, Radboud University </li>
 <li> Alexandra Silva, University College London </li>
-<li> Tanja Vos, Open University </li>
 <li> Jan van Zoest, Royal Philips </li>
 </ul>
 The SEN Symposium is organized by <a href="http://www.versen.nl/">VERSEN</a>.
