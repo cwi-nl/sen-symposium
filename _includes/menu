@@ -6,16 +6,16 @@
 {% assign link="/about/" %}
 {% include menu_item %}
 
+{% assign title="Call for Contributions" %}
+{% assign link="/Call for Contributions/" %}
+{% include menu_item %}
+
 {% assign title="Program" %}
 {% assign link="/program/" %}
 {% include menu_item %}
 
 {% assign title="Registration" %}
 {% assign link="/registration/" %}
-{% include menu_item %}
-
-{% assign title="Call for Contributions" %}
-{% assign link="/Call for Contributions/" %}
 {% include menu_item %}
 
 {% assign title="Venue" %}
