@@ -4,10 +4,10 @@ title: Registration
 published: true
 ---
 
-[comment]: # Please use the form below to register to SEN symposium. Registrations close on January 19, 2018.
-[comment]: # <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeCAHP1eamllWAxs_6k1uFZO_kaMOByYanFJknrq1kzTJgkbQ/viewform?embedded=true" 
-[comment]: # width="760" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
+Please register using the form below:
 
-Participation will be free of charge, but we do ask all attendees to
-register beforehand. The registration link will be made available soon.
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeSKgAB_0DG4ITiEAmQul5nI7jdEPNwIgnewSYnD9mkCuh-Wg/viewform?embedded=true" width="640" height="897" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+Participation is free of charge, but we do ask all attendees to
+register beforehand.
