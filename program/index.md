@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 
-## Program
+## Program SEN Symposium 2020
 
 {: .table .table-striped}
 |  09:30 | Admission and welcome
