@@ -18,7 +18,7 @@ published: true
 |  14:25 | Veelasha Moonsamy (Radboud University) - *Software security for smart mobile devices*
 |  15:05 | Coffee
 |  15:35 | Lightning talks
-|  16:20 | Dino Distefano (Facebook) - *Static Performance Analysis”
+|  16:20 | Dino Distefano (Facebook) - *Static Performance Analysis*
 |  17:00 | Awards ceremony
 |  17:15 | Drinks
 |  18:00 | Closing
