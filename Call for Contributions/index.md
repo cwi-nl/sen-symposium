@@ -4,13 +4,14 @@ published: true
 ---
 
 The next annual Software Engineering Nederland (SEN) symposium will
-take place on Friday, January 31st, 2020 at CWI in Amsterdam
+take place on Thursday and Friday, February 18th and 19th, 2021 at CWI in Amsterdam and also virtually. 
 
 The symposium is organized by VERSEN, the [Dutch National Association
 for Software Engineering](https://www.versen.nl/). The program will
 feature invited presentations, contributed “lightning talks” and will
 include plenty of time for discussions and networking.
 
+<!--
 ### Invited Speakers
 
 * Wil van der Aalst (RWTH Aachen University, Germany)
@@ -19,7 +20,7 @@ include plenty of time for discussions and networking.
 * Veelasha Moonsamy (Radboud University, The Netherlands) 
 * Alexandra Silva (University College London, UK)
 * Jan van Zoest (Royal Philips, The Netherlands) 
-
+-->
 
 ### Call for Lightning Talks
 
@@ -49,8 +50,8 @@ your one-page proposal (PDF) using EasyChair:
 
 ### Important Dates 
 
-Submission of talk proposals: December 13
+Submission of talk proposals: January 8
 
-Notification: January 3, 2020 (or earlier) 
+Notification: January 20, 2020 (or earlier) 
 
 We look forward to seeing you at the SEN symposium!
