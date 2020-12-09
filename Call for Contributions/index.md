@@ -50,8 +50,8 @@ your one-page proposal (PDF) using EasyChair:
 
 ### Important Dates 
 
-Submission of talk proposals: January 8
+Submission of talk proposals: January 8, 2021
 
-Notification: January 20, 2020 (or earlier) 
+Notification: January 20, 2021 (or earlier) 
 
 We look forward to seeing you at the SEN symposium!
