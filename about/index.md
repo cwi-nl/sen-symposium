@@ -16,7 +16,7 @@ The next SEN symposium is organized by [Centrum Wiskunde & Informatica (CWI)](ht
 
 _Organising committee_
 
-* Helle Hcvid Hansen, University of Groningen
+* Helle Hvid Hansen, University of Groningen
 * Ilias Gerostathopoulos, Vrije Universiteit Amsterdam
 * Nils Jansen, Radboud University 
 * Tijs van der Storm, Centrum voor Wiskunde en Informatica & University of Groningen (local organisation)
