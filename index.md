@@ -5,11 +5,12 @@ layout: front
 <p class="lead"> 
 
 The sixth Dutch national symposium on software engineering (SEN) will
-be held on Friday January 31st, 2020 in Amsterdam. After the success of the
-SEN Symposium of 2014, 2016, 2017, 2018, and 2019, we cordially invite
-you to the sixth edition. At this conference we bring together the
+be held on Thursday and Friday, February 18st-19th, 2021. After the success of the
+SEN Symposium of 2014, 2016, 2017, 2018, 2019, and 2020, we cordially invite
+you to the seventh edition. At this conference we bring together the
 Dutch software engineering community.
 
+<!--
 We expect to offer talks by the following invited speakers:
 
 <ul>
@@ -20,6 +21,7 @@ We expect to offer talks by the following invited speakers:
 <li> Alexandra Silva, University College London </li>
 <li> Jan van Zoest, Royal Philips </li>
 </ul>
+-->
 The SEN Symposium is organized by <a href="http://www.versen.nl/">VERSEN</a>.
 
 
