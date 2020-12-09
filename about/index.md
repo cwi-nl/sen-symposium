@@ -18,5 +18,5 @@ _Organising committee_
 
 * Helle Hvid Hansen, University of Groningen
 * Ilias Gerostathopoulos, Vrije Universiteit Amsterdam
-* Nils Jansen, Radboud University 
+* Nils Jansen, Radboud University Nijmegen 
 * Tijs van der Storm, Centrum voor Wiskunde en Informatica & University of Groningen (local organisation)
