@@ -4,8 +4,8 @@ layout: front
 
 <p class="lead"> 
 
-The sixth Dutch national symposium on software engineering (SEN) will
-be held on Thursday and Friday, February 18st-19th, 2021. After the success of the
+The seventh Dutch national symposium on software engineering (SEN) will
+be held on Thursday and Friday, February 18th-19th, 2021. After the success of the
 SEN Symposium of 2014, 2016, 2017, 2018, 2019, and 2020, we cordially invite
 you to the seventh edition. At this conference we bring together the
 Dutch software engineering community.
