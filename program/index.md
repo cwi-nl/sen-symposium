@@ -5,6 +5,7 @@ published: true
 
 ## Program SEN Symposium 2020
 
+<!--
 {: .table .table-striped}
 |  09:30 | Admission and welcome
 |  09:50 | Opening
@@ -35,3 +36,4 @@ published: true
 * Ilias Gerostathopoulos. Architecture-Based Self-Adaptation: Open Challenges and Promising Directions
 * Yaping Luo, Tanja Vos, Pekka Aho and Kevin van der Vlist. ITEA3 IVVES project: Industrial-grade verification and validation of evolving systems (In Finance)
 * Bert de Brock. Where should I publish?
+-->
