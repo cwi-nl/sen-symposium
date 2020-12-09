@@ -3,13 +3,13 @@ layout: default
 published: true
 ---
 
-The next annual Software Engineering Nederland (SEN) symposium will
-take place on Thursday and Friday, February 18th and 19th, 2021 at CWI in Amsterdam and also virtually. 
+The next annual Software Engineering Nederland (SEN) symposium will 
+take place in the afternoons (circa 13:00 - 17:30) of Thursday 18th 
+and Friday 19th February 2021. 
 
 The symposium is organized by VERSEN, the [Dutch National Association
 for Software Engineering](https://www.versen.nl/). The program will
-feature invited presentations, contributed “lightning talks” and will
-include plenty of time for discussions and networking.
+feature invited presentations and contributed “lightning talks”.
 
 <!--
 ### Invited Speakers

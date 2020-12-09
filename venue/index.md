@@ -3,7 +3,10 @@ layout: default
 published: true
 ---
 
-The symposium will take place in the Turing room at CWI and also virtually. 
+If corona circumstances allow for it, the event will take place 
+in hybrid form with physical attendance at the Turing room at the CWI, 
+and virtual attendance via Zoom and Slack. If a physical event is not possible, 
+then it will be a fully virtual event.
 
 ## How to reach CWI by car
 [![alt text](logo.png)](https://www.cwi.nl/ "Centrum Wiskunde & Informatica")
