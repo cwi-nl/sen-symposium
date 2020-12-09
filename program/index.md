@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 
-## Program SEN Symposium 2020
+## Program SEN Symposium 2021
 
 <!--
 {: .table .table-striped}
