@@ -69,8 +69,8 @@ published: true
 </tr>
 <tr>
 <td style="text-align: justify">15:35-16:20</td>
-<td style="text-align: justify"><b class="keywords"></b></td>
-<td style="text-align: justify">Lightning talks</td>
+<td style="text-align: justify"><b class="keywords">Petra Heck and Luís Cruz, Roberto Verdecchia, Enrique Larios Vargas and Luís Cruz, Eleni Constantinou, Emitzá Guzmán, Héctor Cadavid, Ilias Gerostathopoulos, Yaping Luo, Tanja Vos, Pekka Aho and Kevin van der Vlist, Bert de Brock</b></td>
+<td style="text-align: justify">Lightning talks: Software Engineering for Machine Learning Applications, Architectural Technical Debt: Taming the Beast, Software Engineering and Mental Health, Software ecosystem evolution: Past research and the road ahead, Analyzing User Feedback for Software Evolution, A Software Engineering perspective on Systems of Systems architecting, Architecture-Based Self-Adaptation: Open Challenges and Promising Directions, ITEA3 IVVES project: Industrial-grade verification and validation of evolving systems (In Finance), Where should I publish?</td>
 </tr>
 <tr>
 <td style="text-align: justify">16:20-17:00</td>
