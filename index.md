@@ -10,18 +10,19 @@ SEN Symposium of 2014, 2016, 2017, 2018, 2019, and 2020, we cordially invite
 you to the seventh edition. At this conference we bring together the
 Dutch software engineering community.
 
-<!--
-We expect to offer talks by the following invited speakers:
-
+We will offer talks by the following invited speakers:
+ 
 <ul>
-<li> Wil van der Aalst, RWTH Aachen University </li>
-<li> Vasilios Andrikopoulos, University of Groningen </li>
-<li> Dino Distefano, Facebook </li>
-<li> Veelasha Moonsamy, Radboud University </li>
-<li> Alexandra Silva, University College London </li>
-<li> Jan van Zoest, Royal Philips </li>
+<li> Barbora Buhnova, Masaryk University Brno</li>
+<li> Joost-Pieter Katoen, RWTH Aachen University </li>
+<li> Joost Visser, Leiden University </li>
+<li> Yanja Dajsuren, Eindhoven University of Technology </li>
+<li> Emitza Guzman, Vrije Universiteit Amsterdam </li>
+<li> Dennis Komm, ETH Zürich </li>
+<li> Burcu Kulahcioglu Ozkan, Delft University of Technology </li>
+
 </ul>
--->
+
 The SEN Symposium is organized by <a href="http://www.versen.nl/">VERSEN</a>.
 
 
