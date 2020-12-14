@@ -11,16 +11,15 @@ The symposium is organized by VERSEN, the [Dutch National Association
 for Software Engineering](https://www.versen.nl/). The program will
 feature invited presentations and contributed “lightning talks”.
 
-<!--
 ### Invited Speakers
 
-* Wil van der Aalst (RWTH Aachen University, Germany)
-* Vasilios Andrikopoulos (University of Groningen, The Netherlands)
-* Dino Distefano (Facebook, UK)
-* Veelasha Moonsamy (Radboud University, The Netherlands) 
-* Alexandra Silva (University College London, UK)
-* Jan van Zoest (Royal Philips, The Netherlands) 
--->
+* Barbora Buhnova (Masaryk University Brno)
+* Joost-Pieter Katoen (RWTH Aachen University)
+* Joost Visser (Leiden University)
+* Yanja Dajsuren (Eindhoven University of Technology)
+* Emitza Guzman (Vrije Universiteit Amsterdam)
+* Dennis Komm (ETH Zürich)
+* Burcu Kulahcioglu Ozkan (Delft University of Technology)
 
 ### Call for Lightning Talks
 
