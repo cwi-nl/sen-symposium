@@ -45,9 +45,8 @@ submission time, authors can indicate whether they would also like to
 present a poster to complement their proposed talk.  Please submit
 your one-page proposal (PDF) using EasyChair.
 
-<!--
-[https://easychair.org/conferences/?conf=sensymposium2020](https://easychair.org/conferences/?conf=sensymposium2020)
--->
+[https://easychair.org/conferences/?conf=sen2021](https://easychair.org/conferences/?conf=sen2021)
+
 ### Important Dates 
 
 Submission of talk proposals: January 8, 2021

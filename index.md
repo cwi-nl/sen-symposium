@@ -27,4 +27,3 @@ The SEN Symposium is organized by <a href="http://www.versen.nl/">VERSEN</a>.
 
 
 <!--<a href="./posters/index.html">submit a poster/presentation</a> and <a href="./registration/index.html">register for free participation.</a> -->
-</p>
