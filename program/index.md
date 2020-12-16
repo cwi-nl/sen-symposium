@@ -9,26 +9,26 @@ published: true
 |        | <b>Thursday, February 18th</b>
 |  12:30 | Admission and welcome
 |  12:50 | Opening
-|  13:00 | Joost-Pieter Katoen (RWTH Aachen University) <!-- - *Process Mining: How to pick your automation battles?* <br> session chair: Jorge Perez --> 
+|  13:00 | Keynote: Joost-Pieter Katoen (RWTH Aachen University, Germany) <!-- - *Process Mining: How to pick your automation battles?* <br> session chair: Jorge Perez --> 
 |  14:00 | Break
-|  14:10 | Burcu Kulahcioglu Ozkan (Delft University of Technology) 
+|  14:10 | Invited talk: Burcu Kulahcioglu Ozkan (Delft University of Technology, the Netherlands) 
 |  14:50 | Break   
-|  15:10 | Barbora Buhnova (Masaryk University Brno)
+|  15:10 | Keynote: Barbora Buhnova (Masaryk University Brno, Czech Republic)
 |  16:10 | Break
-|  16:20 | Dennis Komm (ETH Zürich)
+|  16:20 | Invited talk: Dennis Komm (ETH Zürich, Switzerland)
 |  17:00 | VERSEN Announcements
 |  17:15 | Awards ceremony
 |  17:30 | VERSEN Open Board Meeting
 |        |
 |        | <b>Friday, February 19th</b>
-|  13:00 | Joost Visser (Leiden University) 
+|  13:00 | Keynote: Joost Visser (Leiden University, the Netherlands) 
 |  14:00 | Break
-|  14:10 | Yanja Dajsuren (Eindhoven University of Technology)
+|  14:10 | Invited talk: Yanja Dajsuren (Eindhoven University of Technology, the Netherlands)
 |  14:50 | Break   
 |  15:10 | Lightning Talks
 |  15:55 | Break
-|  16:05 | Emitza Guzman (Vrije Universiteit Amsterdam)
-|  16:45 | Invited talk from industry (presenter to be confirmed)
+|  16:05 | Invited talk: Emitza Guzman (Vrije Universiteit Amsterdam, the Netherlands)
+|  16:45 | TBC
 |  17:25 | Closing
 
 
