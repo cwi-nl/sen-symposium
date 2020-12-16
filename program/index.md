@@ -21,7 +21,16 @@ published: true
 |  17:30 | VERSEN Open Board Meeting
 
 ### Friday, February 19th
-
+{: .table .table-striped}
+|  13:00 | Joost Visser (Leiden University) 
+|  14:00 | Break
+|  14:10 | Yanja Dajsuren (Eindhoven University of Technology)
+|  14:50 | Break   
+|  15:10 | Lightning Talks
+|  15:55 | Break
+|  16:05 | Emitza Guzman (Vrije Universiteit Amsterdam)
+|  16:45 | Invited talk from industry (presenter to be confirmed)
+|  17:25 | Closing
 
 #### List of accepted lightning talks 
 
