@@ -21,7 +21,7 @@ published: true
 |  17:30 | VERSEN Open Board Meeting
 
 ### Friday, February 19th
-{: .table .table-striped}
+
 |  13:00 | Joost Visser (Leiden University) 
 |  14:00 | Break
 |  14:10 | Yanja Dajsuren (Eindhoven University of Technology)
