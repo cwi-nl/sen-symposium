@@ -19,6 +19,14 @@ published: true
 |  17:00 | VERSEN Announcements
 |  17:15 | Awards ceremony
 |  17:30 | VERSEN Open Board Meeting
+
+
+#### List of accepted lightning talks 
+
+TBD
+
+<!--
+
 |  13:00 | Joost Visser (Leiden University) 
 |  14:00 | Break
 |  14:10 | Yanja Dajsuren (Eindhoven University of Technology)
@@ -29,15 +37,6 @@ published: true
 |  16:45 | Invited talk from industry (presenter to be confirmed)
 |  17:25 | Closing
 
-#### List of accepted lightning talks 
-
-
-<!-- ### Friday, February 19th -->
-
-
-TBD
-
-<!--
 * Petra Heck and Luís Cruz. Software Engineering for Machine Learning Applications
 * Roberto Verdecchia. Architectural Technical Debt: Taming the Beast
 * Enrique Larios Vargas and Luís Cruz. Software Engineering and Mental Health
