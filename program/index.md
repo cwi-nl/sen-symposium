@@ -19,9 +19,6 @@ published: true
 |  17:00 | VERSEN Announcements
 |  17:15 | Awards ceremony
 |  17:30 | VERSEN Open Board Meeting
-
-<!-- ### Friday, February 19th -->
-
 |  13:00 | Joost Visser (Leiden University) 
 |  14:00 | Break
 |  14:10 | Yanja Dajsuren (Eindhoven University of Technology)
@@ -33,6 +30,10 @@ published: true
 |  17:25 | Closing
 
 #### List of accepted lightning talks 
+
+
+<!-- ### Friday, February 19th -->
+
 
 TBD
 
