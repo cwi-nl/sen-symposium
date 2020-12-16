@@ -5,30 +5,26 @@ published: true
 
 ## Program SEN Symposium 2021
 
+{: .table .table-striped}
+|  12:30 | Admission and welcome
+|  12:50 | Opening
+|  13:00 | Joost-Pieter Katoen (RWTH Aachen University) <!-- - *Process Mining: How to pick your automation battles?* <br> session chair: Jorge Perez --> 
+|  14:00 | Break
+|  14:10 | Burcu Kulahcioglu Ozkan (Delft University of Technology) 
+|  14:50 | Break   
+|  15:10 | Barbora Buhnova (Masaryk University Brno)
+|  16:10 | Break
+|  16:20 | Dennis Komm (ETH Zürich)
+|  17:00 | VERSEN Announcements
+|  17:15 | Awards ceremony
+|  17:30 | VERSEN Open Board Meeting
+
+
+#### List of accepted lightning talks 
+
 TBD
 
 <!--
-{: .table .table-striped}
-|  09:30 | Admission and welcome
-|  09:50 | Opening
-|  10:00 | Wil van der Aalst (RWTH Aachen University) - *Process Mining: How to pick your automation battles?* <br> session chair: Jorge Perez 
-|  10:40 | Coffee
-|  11:10 | Vasilios Andrikopoulos (University of Groningen) - *Cost efficiency in software (re)architecting*  <br> session chair: Yanja Dajsuren
-|  11:50 | Alexandra Silva (University College London) - *An algebraic framework to reason about concurrency* <br> session chair: Jorge Perez 
-|  12:30 | VERSEN Announcements
-|  12:45 | Lunch and posters
-|  13:45 | Jan van Zoest (Royal Philips) - *Philips HealthSuite, architecting at scale for the health continuum*  <br> session chair: Yanja Dajsuren
-|  14:25 | Veelasha Moonsamy (Radboud University) - *Software security for smart mobile devices* <br> session chair: Wouter Swierstra
-|  15:05 | Coffee
-|  15:35 | Lightning talks
-|  16:20 | Dino Distefano (Facebook) - *Static Performance Analysis* <br> session chair: Wouter Swierstra
-|  17:00 | Awards ceremony
-|  17:15 | Drinks
-|  18:00 | Closing
-
-
-#### List of accepted lightning talks and posters
-
 * Petra Heck and Luís Cruz. Software Engineering for Machine Learning Applications
 * Roberto Verdecchia. Architectural Technical Debt: Taming the Beast
 * Enrique Larios Vargas and Luís Cruz. Software Engineering and Mental Health
