@@ -5,7 +5,7 @@ published: true
 
 ## Program SEN Symposium 2021
 
-### Thursday, February 18th
+<!-- ### Thursday, February 18th -->
 {: .table .table-striped}
 |  12:30 | Admission and welcome
 |  12:50 | Opening
