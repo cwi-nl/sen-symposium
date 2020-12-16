@@ -5,6 +5,7 @@ published: true
 
 ## Program SEN Symposium 2021
 
+### Thursday, February 18th
 {: .table .table-striped}
 |  12:30 | Admission and welcome
 |  12:50 | Opening
@@ -18,6 +19,8 @@ published: true
 |  17:00 | VERSEN Announcements
 |  17:15 | Awards ceremony
 |  17:30 | VERSEN Open Board Meeting
+
+### Friday, February 19th
 
 
 #### List of accepted lightning talks 
