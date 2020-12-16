@@ -14,12 +14,12 @@ feature invited presentations and contributed “lightning talks”.
 ### Invited Speakers
 
 * Barbora Buhnova (Masaryk University Brno)
-* Joost-Pieter Katoen (RWTH Aachen University)
-* Joost Visser (Leiden University)
-* Yanja Dajsuren (Eindhoven University of Technology)
+* Yanja Dajsuren (Eindhoven University of Technology) 
 * Emitza Guzman (Vrije Universiteit Amsterdam)
+* Joost-Pieter Katoen (RWTH Aachen University)
 * Dennis Komm (ETH Zürich)
 * Burcu Kulahcioglu Ozkan (Delft University of Technology)
+* Joost Visser (Leiden University)
 
 ### Call for Lightning Talks
 

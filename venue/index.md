@@ -10,7 +10,7 @@ then it will be a fully virtual event.
 
 ## How to reach CWI by car
 [![alt text](logo.png)](https://www.cwi.nl/ "Centrum Wiskunde & Informatica")
-### Navigaton system
+### Navigation system
 
 The street name ‘Science Park’ is in use since 2011 and is not yet implemented in all navigation systems. If you cannot find ‘Science Park 123’, use our the address ‘Kruislaan 413’ instead.
 
