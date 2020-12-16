@@ -20,7 +20,7 @@ published: true
 |  17:15 | Awards ceremony
 |  17:30 | VERSEN Open Board Meeting
 
-### Friday, February 19th
+<!-- ### Friday, February 19th -->
 
 |  13:00 | Joost Visser (Leiden University) 
 |  14:00 | Break
