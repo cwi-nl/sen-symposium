@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 
-## Program SEN Symposium 2021
+## Tentative Program SEN Symposium 2021
 
 {: .table .table-striped}
 |        | <b>Thursday, February 18th</b>

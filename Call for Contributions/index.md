@@ -40,10 +40,10 @@ them);
 * motivate a “call to arms” for the broad VERSEN community.  
 
 There will be a (lightweight) evaluation of one-page talk proposals
-(PDF) describing the envisioned presentation at the symposium. At
-submission time, authors can indicate whether they would also like to
-present a poster to complement their proposed talk.  Please submit
-your one-page proposal (PDF) using EasyChair.
+(PDF) describing the envisioned presentation at the symposium. 
+<!-- At submission time, authors can indicate whether they would also like to
+present a poster to complement their proposed talk. -->  
+Please submit your one-page proposal (PDF) using EasyChair.
 
 [https://easychair.org/conferences/?conf=sen2021](https://easychair.org/conferences/?conf=sen2021)
 
