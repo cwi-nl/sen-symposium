@@ -3,6 +3,7 @@ layout: default
 published: true
 ---
 
+<!--
 The next annual Software Engineering Nederland (SEN) symposium will 
 take place in the afternoons (circa 13:00 - 17:30) of Thursday 18th 
 and Friday 19th February 2021. 
@@ -10,7 +11,8 @@ and Friday 19th February 2021.
 The symposium is organized by VERSEN, the [Dutch National Association
 for Software Engineering](https://www.versen.nl/). The program will
 feature invited presentations and contributed “lightning talks”.
-
+-->
+<!--
 ### Invited Speakers
 
 * Barbora Buhnova (Masaryk University Brno)
@@ -20,8 +22,9 @@ feature invited presentations and contributed “lightning talks”.
 * Dennis Komm (ETH Zürich)
 * Burcu Kulahcioglu Ozkan (Delft University of Technology)
 * Joost Visser (Leiden University)
+-->
 
-### Call for Lightning Talks
+## Call for Lightning Talks
 
 We invite all software engineering researchers in the Netherlands to
 contribute to the symposium program. We welcome proposals for
