@@ -13,7 +13,7 @@ published: true
 |  14:00 | Break
 |  14:10 | Invited talk: Burcu Kulahcioglu Ozkan (Delft University of Technology, the Netherlands) 
 |  14:50 | Break   
-|  15:10 | Keynote: Barbora Buhnova (Masaryk University Brno, Czech Republic)
+|  15:10 | Keynote: [Barbora Buhnova](https://www.fi.muni.cz/~buhnova/) (Masaryk University Brno, Czech Republic)
 |  16:10 | Break
 |  16:20 | Invited talk: Dennis Komm (ETH Zürich, Switzerland)
 |  17:00 | VERSEN Announcements
