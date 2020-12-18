@@ -6,13 +6,14 @@ layout: front
 
 The seventh Dutch national symposium on software engineering (SEN) will
 be held in the afternoons of Thursday 18th and Friday 19th February 2021. 
-After the success of the SEN Symposium of 2014, 2016, 2017, 2018, 2019, and 2020, we cordially invite
-you to the seventh edition. At this conference we bring together the
+<!--After the success of the SEN Symposium of 2014, 2016, 2017, 2018, 2019, and 2020, we cordially invite
+you to the seventh edition.--> 
+At this conference we bring together the
 Dutch software engineering community.
-<br>
+<br><br>
 
-The symposium is organized by VERSEN, the [Dutch National Association
-for Software Engineering](https://www.versen.nl/). The program will
+The symposium is organized by VERSEN, the <a href=https://www.versen.nl/>Dutch National Association
+for Software Engineering</a>. The program will
 feature keynotes and invited presentations and contributed “lightning talks”.
 
 We will offer keynotes and invited talks by the following speakers:
