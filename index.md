@@ -9,6 +9,7 @@ be held in the afternoons of Thursday 18th and Friday 19th February 2021.
 After the success of the SEN Symposium of 2014, 2016, 2017, 2018, 2019, and 2020, we cordially invite
 you to the seventh edition. At this conference we bring together the
 Dutch software engineering community.
+<br>
 
 The symposium is organized by VERSEN, the [Dutch National Association
 for Software Engineering](https://www.versen.nl/). The program will
@@ -28,12 +29,14 @@ We will offer keynotes and invited talks by the following speakers:
 
 <!-- The SEN Symposium is organized by <a href="http://www.versen.nl/">VERSEN</a>. -->
 
-_Organising committee_
-* Helle Hvid Hansen, University of Groningen
-* Ilias Gerostathopoulos, Vrije Universiteit Amsterdam
-* Nils Jansen, Radboud University Nijmegen 
-* Jurgen Vinju, Centrum voor Wiskunde en Informatica & TU Eindhoven (local organisation)
-* Tijs van der Storm, Centrum voor Wiskunde en Informatica & University of Groningen (local organisation)
-
+<br>
+Organising committee
+<ul>
+<li>Helle Hvid Hansen, University of Groningen</li>
+<li>Ilias Gerostathopoulos, Vrije Universiteit Amsterdam</li>
+<li>Nils Jansen, Radboud University Nijmegen </li>
+<li>Jurgen Vinju, Centrum voor Wiskunde en Informatica & TU Eindhoven (local organisation)</li>
+<li>Tijs van der Storm, Centrum voor Wiskunde en Informatica & University of Groningen (local organisation)</li>
+</ul>
 
 <!--<a href="./posters/index.html">submit a poster/presentation</a> and <a href="./registration/index.html">register for free participation.</a> -->
