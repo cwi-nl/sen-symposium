@@ -30,7 +30,7 @@ We will offer talks by the following invited speakers:
 
 <!-- The SEN Symposium is organized by <a href="http://www.versen.nl/">VERSEN</a>. -->
 
-<br>
+<p class="lead"> 
 Organising committee
 <ul>
 <li>Helle Hvid Hansen, University of Groningen</li>
