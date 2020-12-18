@@ -13,13 +13,13 @@ Dutch software engineering community.
 We will offer talks by the following invited speakers:
  
 <ul>
-<li> Barbora Buhnova, Masaryk University Brno</li>
-<li> Yanja Dajsuren, Eindhoven University of Technology </li>
-<li> Emitza Guzman, Vrije Universiteit Amsterdam </li>
-<li> Joost-Pieter Katoen, RWTH Aachen University </li>
-<li> Dennis Komm, ETH Zürich </li>
-<li> Burcu Kulahcioglu Ozkan, Delft University of Technology </li>
-<li> Joost Visser, Leiden University </li>
+<li> Barbora Buhnova, Masaryk University Brno, Czech Republic </li>
+<li> Yanja Dajsuren, Eindhoven University of Technology, the Netherlands </li>
+<li> Emitza Guzman, Vrije Universiteit Amsterdam, the Netherlands </li>
+<li> Joost-Pieter Katoen, RWTH Aachen University, Germany </li>
+<li> Dennis Komm, ETH Zürich, Switzerland </li>
+<li> Burcu Kulahcioglu Ozkan, Delft University of Technology, the Netherlands </li>
+<li> Joost Visser, Leiden University, the Netherlands </li>
 </ul>
 
 The SEN Symposium is organized by <a href="http://www.versen.nl/">VERSEN</a>.
