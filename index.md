@@ -20,12 +20,12 @@ We will offer keynotes and invited talks by the following speakers:
  
 <ul>
 <li> <a href="https://www.fi.muni.cz/~buhnova/">Barbora Buhnova</a>, Masaryk University Brno, Czech Republic </li>
-<li> Yanja Dajsuren, Eindhoven University of Technology, the Netherlands </li>
-<li> Emitza Guzman, Vrije Universiteit Amsterdam, the Netherlands </li>
-<li> Joost-Pieter Katoen, RWTH Aachen University, Germany </li>
-<li> Dennis Komm, ETH Zürich, Switzerland </li>
-<li> Burcu Kulahcioglu Ozkan, Delft University of Technology, the Netherlands </li>
-<li> Joost Visser, Leiden University, the Netherlands </li>
+<li> <a href="https://www.tue.nl/en/research/researchers/yanja-dajsuren/">Yanja Dajsuren</a>, Eindhoven University of Technology, the Netherlands </li>
+<li> <a href="http://145.108.225.28/emitza-guzman/">Emitza Guzman</a>, Vrije Universiteit Amsterdam, the Netherlands </li>
+<li> <a href="https://www-i2.informatik.rwth-aachen.de/~katoen/">Joost-Pieter Katoen</a>, RWTH Aachen University, Germany </li>
+<li> <a href="https://people.inf.ethz.ch/dkomm/">Dennis Komm</a>, ETH Zürich, Switzerland </li>
+<li> <a href="https://burcuku.github.io/home/">Burcu Kulahcioglu Ozkan</a>, Delft University of Technology, the Netherlands </li>
+<li> <a href="https://jstvssr.github.io/">Joost Visser</a>, Leiden University, the Netherlands </li>
 </ul>
 
 <!-- The SEN Symposium is organized by <a href="http://www.versen.nl/">VERSEN</a>. -->
