@@ -13,10 +13,10 @@ Dutch software engineering community.
 <br><br>
 
 The symposium is organized by VERSEN, the <a href="https://www.versen.nl/">Dutch National Association
-for Software Engineering</a>. The program will
-feature keynotes and invited presentations and contributed “lightning talks”.
+for Software Engineering</a>. The program will feature keynotes, invited 
+presentations, and contributed “lightning talks”.
 
-We will offer keynotes and invited talks by the following speakers:
+We will offer talks by the following invited speakers:
  
 <ul>
 <li> <a href="https://www.fi.muni.cz/~buhnova/">Barbora Buhnova</a>, Masaryk University Brno, Czech Republic </li>
