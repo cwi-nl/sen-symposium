@@ -12,7 +12,7 @@ At this conference we bring together the
 Dutch software engineering community.
 <br><br>
 
-The symposium is organized by VERSEN, the <a href=https://www.versen.nl/>Dutch National Association
+The symposium is organized by VERSEN, the <a href="https://www.versen.nl/">Dutch National Association
 for Software Engineering</a>. The program will
 feature keynotes and invited presentations and contributed “lightning talks”.
 
