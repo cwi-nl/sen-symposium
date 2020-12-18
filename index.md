@@ -24,5 +24,12 @@ We will offer talks by the following invited speakers:
 
 The SEN Symposium is organized by <a href="http://www.versen.nl/">VERSEN</a>.
 
+_Organising committee_
+* Helle Hvid Hansen, University of Groningen
+* Ilias Gerostathopoulos, Vrije Universiteit Amsterdam
+* Nils Jansen, Radboud University Nijmegen 
+* Jurgen Vinju, Centrum voor Wiskunde en Informatica & TU Eindhoven (local organisation)
+* Tijs van der Storm, Centrum voor Wiskunde en Informatica & University of Groningen (local organisation)
+
 
 <!--<a href="./posters/index.html">submit a poster/presentation</a> and <a href="./registration/index.html">register for free participation.</a> -->
