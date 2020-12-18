@@ -18,7 +18,7 @@ feature keynotes and invited presentations and contributed “lightning talks”
 We will offer keynotes and invited talks by the following speakers:
  
 <ul>
-<li> Barbora Buhnova, Masaryk University Brno, Czech Republic </li>
+<li> <a href="https://www.fi.muni.cz/~buhnova/">Barbora Buhnova</a>, Masaryk University Brno, Czech Republic </li>
 <li> Yanja Dajsuren, Eindhoven University of Technology, the Netherlands </li>
 <li> Emitza Guzman, Vrije Universiteit Amsterdam, the Netherlands </li>
 <li> Joost-Pieter Katoen, RWTH Aachen University, Germany </li>
