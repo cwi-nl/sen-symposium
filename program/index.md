@@ -16,7 +16,7 @@ published: true
 |  15:10 | Break   
 |  15:30 | Keynote: [Barbora Buhnova](https://www.fi.muni.cz/~buhnova/) (Masaryk University Brno, Czech Republic)
 |  16:30 | Break
-|  16:40 | Invited talk: [Dennis Komm](https://people.inf.ethz.ch/dkomm/) (ETH Zürich, Switzerland)
+|  16:40 | Invited talk: [Dennis Komm](https://people.inf.ethz.ch/dkomm/) (PH Graubünden, ETH Zürich, Switzerland)
 |  17:20 | VERSEN Announcements
 |  17:35-18:05 | VERSEN Open Board Meeting
 |        |
