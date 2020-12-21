@@ -29,7 +29,7 @@ published: true
 |  13:25 | Awards ceremony
 |  15:40 | Break
 |  16:00 | Invited talk: [Emitza Guzman](http://145.108.225.28/emitza-guzman/) (Vrije Universiteit Amsterdam, the Netherlands)
-|  16:40 | TBC
+|  16:40 | Invited talk: [Christian Prehofer](http://www.prehofer.de/Research/Welcome.html) (DENSO Automotive, Germany)
 |  17:20 | Closing
 |  17:25-17:55 | Informal discussion session
 

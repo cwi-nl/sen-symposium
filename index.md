@@ -25,6 +25,7 @@ We will offer talks by the following invited speakers:
 <li> <a href="https://www-i2.informatik.rwth-aachen.de/~katoen/">Joost-Pieter Katoen</a>, RWTH Aachen University, Germany </li>
 <li> <a href="https://people.inf.ethz.ch/dkomm/">Dennis Komm</a>, PH Graubünden, ETH Zürich, Switzerland </li>
 <li> <a href="https://burcuku.github.io/home/">Burcu Kulahcioglu Ozkan</a>, Delft University of Technology, the Netherlands </li>
+<li> <a href="http://www.prehofer.de/Research/Welcome.html">Christian Prehofer</a>, DENSO Automotive, Germany </li>
 <li> <a href="https://jstvssr.github.io/">Joost Visser</a>, Leiden University, the Netherlands </li>
 </ul>
 
