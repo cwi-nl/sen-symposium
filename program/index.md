@@ -26,7 +26,7 @@ published: true
 |  14:10 | Invited talk: [Yanja Dajsuren](https://www.tue.nl/en/research/researchers/yanja-dajsuren/) (Eindhoven University of Technology, the Netherlands)
 |  14:50 | Break   
 |  15:00 | Lightning Talks
-|  13:25 | Awards ceremony
+|  15:25 | Awards ceremony
 |  15:40 | Break
 |  16:00 | Invited talk: [Emitza Guzman](http://145.108.225.28/emitza-guzman/) (Vrije Universiteit Amsterdam, the Netherlands)
 |  16:40 | Invited talk: [Christian Prehofer](http://www.prehofer.de/Research/Welcome.html) (DENSO Automotive, Germany)
