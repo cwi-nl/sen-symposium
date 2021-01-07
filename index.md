@@ -37,8 +37,8 @@ Organising committee
 <li>Helle Hvid Hansen, University of Groningen</li>
 <li>Ilias Gerostathopoulos, Vrije Universiteit Amsterdam</li>
 <li>Nils Jansen, Radboud University Nijmegen </li>
-<li>Jurgen Vinju, Centrum voor Wiskunde en Informatica & TU Eindhoven (local organisation)</li>
-<li>Tijs van der Storm, Centrum voor Wiskunde en Informatica & University of Groningen (local organisation)</li>
+<li>Jurgen Vinju, Centrum Wiskunde & Informatica, TU Eindhoven (local organisation)</li>
+<li>Tijs van der Storm, Centrum Wiskunde & Informatica, University of Groningen (local organisation)</li>
 </ul>
 
 <!--<a href="./posters/index.html">submit a poster/presentation</a> and <a href="./registration/index.html">register for free participation.</a> -->
