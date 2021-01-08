@@ -52,7 +52,7 @@ Please submit your one-page proposal (PDF) using EasyChair.
 
 ### Important Dates 
 
-Submission of talk proposals: January 8, 2021
+Submission of talk proposals: January 15, 2021, 12:00 CET
 
 Notification: January 20, 2021 (or earlier) 
 
