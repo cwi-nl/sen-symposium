@@ -35,11 +35,8 @@ published: true
 |  17:40-18:10 | Informal discussion session
 
 
-#### List of accepted lightning talks 
-
-TBD
-
 <!--
+#### List of accepted lightning talks 
 
 * Petra Heck and Luís Cruz. Software Engineering for Machine Learning Applications
 * Roberto Verdecchia. Architectural Technical Debt: Taming the Beast
