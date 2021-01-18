@@ -9,7 +9,7 @@ published: true
 |        | <b>Thursday, February 18th</b>
 |  12:30 | Admission and welcome
 |  12:50 | Opening
-|  13:00 | Keynote: [Joost-Pieter Katoen](https://www-i2.informatik.rwth-aachen.de/~katoen/) (RWTH Aachen University, Germany): Demystifying Probabilistic Programming <!-- - *Process Mining: How to pick your automation battles?* <br> session chair: Jorge Perez --> 
+|  13:00 | Keynote: [Joost-Pieter Katoen](https://www-i2.informatik.rwth-aachen.de/~katoen/) (RWTH Aachen University, Germany) - *Demystifying Probabilistic Programming* <br> <!-- - *Process Mining: How to pick your automation battles?* <br> session chair: Jorge Perez --> 
 |  14:00 | Break
 |  14:10 | Invited talk: [Burcu Kulahcioglu Ozkan](https://burcuku.github.io/home/) (Delft University of Technology, the Netherlands): "Testing Consensus Implementations in Distributed Systems"
 |  14:50 | Lightning Talks: {::nomarkdown}<ul><li>Marielle Stoelinga: "What is predictive maintenance and why the hell is that interesting for software engineers?"</li><li>Harrie J.M. Passier: "Quality-focused Programming Education - QPED project"</li><li>Thom S. Badings: "Balancing Wind and Batteries: Towards Predictive Verification of Smart Grids"</li><li>Marnix Suilen: "Robust Finite-State Controllers for Uncertain POMDPs"</li></ul>{:/}
