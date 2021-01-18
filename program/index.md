@@ -13,8 +13,7 @@ published: true
 |  14:00 | Break
 |  14:10 | Invited talk: [Burcu Kulahcioglu Ozkan](https://burcuku.github.io/home/) (Delft University of Technology, the Netherlands)
 |  14:50 | Lightning Talks: 
-Marielle Stoelinga: "What is predictive maintenance and why the hell is that interesting for software
-                      engineers?"
+Marielle Stoelinga: "What is predictive maintenance and why the hell is that interesting for software engineers?"
 Harrie J.M. Passier: "Quality-focused Programming Education - QPED project"                  
 Thom S. Badings: "Balancing Wind and Batteries: Towards Predictive Verication of Smart Grids"
 Marnix Suilen: "Robust Finite-State Controllers for Uncertain POMDPs"                        
