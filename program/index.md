@@ -24,7 +24,7 @@ published: true
 |  13:00 | Keynote: [Joost Visser](https://jstvssr.github.io/) (Leiden University, the Netherlands) 
 |  14:00 | Break
 |  14:10 | Invited talk: [Yanja Dajsuren](https://www.tue.nl/en/research/researchers/yanja-dajsuren/) (Eindhoven University of Technology, the Netherlands): "Re-envisioning the automotive systems post-pandemic"
-|  14:50 | Lightning Talks: {::nomarkdown}<ul><li>Olivia Rodriguez: "What to do next? Action selection for intelligent scriptless testing"</li><li>Tim Soethout: "Banking on Domain Knowledge for Faster Distributed Transactions"</li><li>Kevin van der Vlist: "Synthesizing Middleware Components for Reusable Software"</li><li>Zaharah A. Bukhsh: "Process Monitoring with Attension Network"</li></ul>{:/}
+|  14:50 | Lightning Talks: {::nomarkdown}<ul><li>Olivia Rodriguez: "What to do next? Action selection for intelligent scriptless testing"</li><li>Tim Soethout: "Banking on Domain Knowledge for Faster Distributed Transactions"</li><li>Kevin van der Vlist: "Synthesizing Middleware Components for Reusable Software"</li><li>Zaharah A. Bukhsh: "Process Monitoring with Attention Network"</li></ul>{:/}
 |  15:10 | Break
 |  15:30 | Invited talk: [Emitza Guzman](http://145.108.225.28/emitza-guzman/) (Vrije Universiteit Amsterdam, the Netherlands): "User Feedback and Software Evolution"   
 |  16:10 | Lightning Talks: {::nomarkdown}<ul><li>David van der Leij: "Machine learning for software refactoring"</li><li>Christina Kolb: "Safety and Security Interactions with Attack-Defence-Fault Trees"</li><li>Bas van den Heuvel: "A Decentralized Analysis of Multiparty Protocols"</li><li>Benjamin Lion: "Coordination in system of cyber-physical components"</li></ul>{:/}
