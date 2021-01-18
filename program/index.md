@@ -24,14 +24,15 @@ published: true
 |  13:00 | Keynote: [Joost Visser](https://jstvssr.github.io/) (Leiden University, the Netherlands) 
 |  14:00 | Break
 |  14:10 | Invited talk: [Yanja Dajsuren](https://www.tue.nl/en/research/researchers/yanja-dajsuren/) (Eindhoven University of Technology, the Netherlands)
-|  14:50 | Break   
-|  15:00 | Lightning Talks
-|  15:25 | Awards ceremony
-|  15:40 | Break
-|  16:00 | Invited talk: [Emitza Guzman](http://145.108.225.28/emitza-guzman/) (Vrije Universiteit Amsterdam, the Netherlands)
+|  14:50 | Lightning Talks
+|  15:10 | Break
+|  15:30 | Invited talk: [Emitza Guzman](http://145.108.225.28/emitza-guzman/) (Vrije Universiteit Amsterdam, the Netherlands)   
+|  16:10 | Lightning Talks
+|  16:30 | Break
 |  16:40 | Invited talk: [Christian Prehofer](http://www.prehofer.de/Research/Welcome.html) (DENSO Automotive, Germany)
-|  17:20 | Closing
-|  17:25-17:55 | Informal discussion session
+|  17:20 | Awards ceremony
+|  17:35 | Closing
+|  17:40-18:10 | Informal discussion session
 
 
 #### List of accepted lightning talks 
