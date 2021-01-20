@@ -14,9 +14,9 @@ published: true
 |  14:10 | Invited talk: [Burcu Kulahcioglu Ozkan](https://burcuku.github.io/home/) (Delft University of Technology, the Netherlands): "Testing Consensus Implementations in Distributed Systems"
 |  14:50 | Lightning Talks: {::nomarkdown}<ul><li>Marielle Stoelinga: "What is predictive maintenance and why the hell is that interesting for software engineers?"</li><li>Harrie J.M. Passier: "Quality-focused Programming Education - QPED project"</li><li>Thom S. Badings: "Balancing Wind and Batteries: Towards Predictive Verification of Smart Grids"</li><li>Marnix Suilen: "Robust Finite-State Controllers for Uncertain POMDPs"</li></ul>{:/}
 |  15:10 | Break   
-|  15:30 | Keynote: [Barbora Buhnova](https://www.fi.muni.cz/~buhnova/) (Masaryk University Brno, Czech Republic)
+|  15:30 | Keynote: [Barbora Buhnova](https://www.fi.muni.cz/~buhnova/) (Masaryk University Brno, Czech Republic): "Why the wrong people choose to study software architecture and the right people do not - lessons on the increasing importance of diversity within software architecture community"
 |  16:30 | Break
-|  16:40 | Invited talk: [Dennis Komm](https://people.inf.ethz.ch/dkomm/) (PH Graubünden, ETH Zürich, Switzerland)
+|  16:40 | Invited talk: [Dennis Komm](https://people.inf.ethz.ch/dkomm/) (PH Graubünden, ETH Zürich, Switzerland): "A turtle, a snake, and a tiger walk into a classroom..."
 |  17:20 | VERSEN Announcements
 |  17:35-18:05 | VERSEN Open Board Meeting
 |        |
@@ -29,7 +29,7 @@ published: true
 |  15:30 | Invited talk: [Emitza Guzman](http://145.108.225.28/emitza-guzman/) (Vrije Universiteit Amsterdam, the Netherlands): "User Feedback and Software Evolution"   
 |  16:10 | Lightning Talks: {::nomarkdown}<ul><li>David van der Leij: "Machine learning for software refactoring"</li><li>Christina Kolb: "Safety and Security Interactions with Attack-Defence-Fault Trees"</li><li>Bas van den Heuvel: "A Decentralized Analysis of Multiparty Protocols"</li><li>Benjamin Lion: "Coordination in system of cyber-physical components"</li></ul>{:/}
 |  16:30 | Break
-|  16:40 | Invited talk: [Christian Prehofer](http://www.prehofer.de/Research/Welcome.html) (DENSO Automotive, Germany)
+|  16:40 | Invited talk: [Christian Prehofer](http://www.prehofer.de/Research/Welcome.html) (DENSO Automotive, Germany): "Connected cars and the cloud: From Big Data to Big SW challenges"
 |  17:20 | Awards ceremony
 |  17:35 | Closing
 |  17:40-18:10 | Informal discussion session
