@@ -21,7 +21,7 @@ published: true
 |  17:35-18:05 | VERSEN Open Board Meeting
 |        |
 |        | <b>Friday, February 19th</b>
-|  13:00 | Keynote: [Joost Visser](https://jstvssr.github.io/) (Leiden University, the Netherlands) 
+|  13:00 | Keynote: [Joost Visser](https://jstvssr.github.io/) (Leiden University, the Netherlands): How to engineer machines that learn? Software engineering practices revisited in the age of ML 
 |  14:00 | Break
 |  14:10 | Invited talk: [Yanja Dajsuren](https://www.tue.nl/en/research/researchers/yanja-dajsuren/) (Eindhoven University of Technology, the Netherlands): "Re-envisioning the automotive systems post-pandemic"
 |  14:50 | Lightning Talks: {::nomarkdown}<ul><li>Olivia Rodriguez: "What to do next? Action selection for intelligent scriptless testing"</li><li>Tim Soethout: "Banking on Domain Knowledge for Faster Distributed Transactions"</li><li>Kevin van der Vlist: "Synthesizing Middleware Components for Reusable Software"</li><li>Zaharah A. Bukhsh: "Process Monitoring with Attention Network"</li></ul>{:/}
