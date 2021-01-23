@@ -3,10 +3,12 @@ layout: default
 published: true
 ---
 
-If corona circumstances allow for it, the event will take place 
+<!-- If corona circumstances allow for it, the event will take place 
 in hybrid form with physical attendance at the Turing room at the CWI, 
 and virtual attendance via Zoom and Slack. If a physical event is not possible, 
 then it will be a fully virtual event.
+-->
+Due to corona circumstances, the event will take place as a fully virtual one, with attendance via Zoom and Slack. 
 
 ## How to reach CWI by car
 [![alt text](logo.png)](https://www.cwi.nl/ "Centrum Wiskunde & Informatica")
