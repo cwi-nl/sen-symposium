@@ -6,6 +6,7 @@ published: true
 Due to corona circumstances, the event will take place as a fully virtual one, with attendance via Zoom and Slack. 
 
 Please register to the event via submitting the form available on the [registration page](http://www.sen-symposium.nl/registration/).
+
 <!--
 If corona circumstances allow for it, the event will take place 
 in hybrid form with physical attendance at the Turing room at the CWI, 
