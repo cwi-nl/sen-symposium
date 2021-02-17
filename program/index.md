@@ -12,7 +12,7 @@ published: true
 |  13:00 | Keynote: [Joost-Pieter Katoen](https://www-i2.informatik.rwth-aachen.de/~katoen/) (RWTH Aachen University, Germany): "Demystifying Probabilistic Programming" <!-- - *Process Mining: How to pick your automation battles?* <br> session chair: Jorge Perez --> 
 |  14:00 | Break
 |  14:10 | Invited talk: [Burcu Kulahcioglu Ozkan](https://burcuku.github.io/home/) (Delft University of Technology, the Netherlands): "Testing Consensus Implementations in Distributed Systems"
-|  14:50 | Lightning Talks session 1: {::nomarkdown}<ul><li>Marielle Stoelinga: "What is predictive maintenance and why the hell is that interesting for software engineers?"</li><li>Harrie J.M. Passier: "Quality-focused Programming Education - QPED project"</li><li>Thom S. Badings: "Balancing Wind and Batteries: Towards Predictive Verification of Smart Grids"</li><li>Marnix Suilen: "Robust Finite-State Controllers for Uncertain POMDPs"</li></ul>{:/}
+|  14:50 | Lightning Talks session 1: {::nomarkdown}<ul><li>Marielle Stoelinga: "What is predictive maintenance and why the hell is that interesting for software engineers?"</li><li>Tanja Vos: "Quality-focused Programming Education - QPED project"</li><li>Thom S. Badings: "Balancing Wind and Batteries: Towards Predictive Verification of Smart Grids"</li><li>Marnix Suilen: "Robust Finite-State Controllers for Uncertain POMDPs"</li></ul>{:/}
 |  15:10 | Break   
 |  15:30 | Keynote: [Barbora Buhnova](https://www.fi.muni.cz/~buhnova/) (Masaryk University Brno, Czech Republic): "Why the wrong people choose to study software architecture and the right people do not - lessons on the increasing importance of diversity within software architecture community"
 |  16:30 | Break
