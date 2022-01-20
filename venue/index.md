@@ -2,16 +2,19 @@
 layout: default
 published: true
 ---
-
-Due to corona circumstances, the event will take place as a fully virtual one, with attendance via Zoom and Slack. 
+<!--
+Due to corona circumstances, the event will take place as a fully virtual one, with attendance via Zoom and Slack.
 
 Please register to the event via submitting the form available on the [registration page](http://www.sen-symposium.nl/registration/).
+-->
 
 <!--
-If corona circumstances allow for it, the event will take place 
-in hybrid form with physical attendance at the Turing room at the CWI, 
-and virtual attendance via Zoom and Slack. If a physical event is not possible, 
+If corona circumstances allow for it, the event will take place
+in hybrid form with physical attendance at the Turing room at the CWI,
+and virtual attendance via Zoom and Slack. If a physical event is not possible,
 then it will be a fully virtual event.
+-->
+
 
 ## How to reach CWI by car
 [![alt text](logo.png)](https://www.cwi.nl/ "Centrum Wiskunde & Informatica")
@@ -45,8 +48,6 @@ Alternatively, bus 40 serves Amsterdam Science Park four times an hour from stat
 
 Take tram 9 to Diemen at Amsterdam Central Station. Get off at Kruislaan (situated at the Middenlaan - Kruislaan intersection). From there, you can walk to Amsterdam Science Park (15 min) or switch to bus 40.
 
-## Map 
+## Map
 
 <a href="http://www.amsterdamsciencepark.nl/fileadmin/user_upload/documents/Contact_and_route/A5_Map_of_Amsterdam_Science_Park_PDF.pdf"><img src="/assets/img/map.png"></a>
-
--->

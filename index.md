@@ -2,22 +2,23 @@
 layout: front
 ---
 
-<p class="lead"> 
+<p class="lead">
 
-The seventh Dutch national symposium on software engineering (SEN) will
-be held in the afternoons of Thursday 18th and Friday 19th February 2021. 
+The 8th Dutch national symposium on software engineering (SEN) will be held on Friday 13th May 2022.
 <!--After the success of the SEN Symposium of 2014, 2016, 2017, 2018, 2019, and 2020, we cordially invite
-you to the seventh edition.--> 
-At this conference we bring together the
-Dutch software engineering community.
+you to the seventh edition.-->
+At this conference we bring together the Dutch software engineering community.
 <br><br>
 
 The symposium is organized by VERSEN, the <a href="https://www.versen.nl/">Dutch National Association
-for Software Engineering</a>. The program will feature keynotes, invited 
+for Software Engineering</a>. The program will feature keynotes, invited
 presentations, and contributed “lightning talks”.
 
+The list of invited speakers will be available soon!
+
+<!--
 We will offer talks by the following invited speakers:
- 
+
 <ul>
 <li> <a href="https://www.fi.muni.cz/~buhnova/">Barbora Buhnova</a>, Masaryk University Brno, Czech Republic </li>
 <li> <a href="https://www.tue.nl/en/research/researchers/yanja-dajsuren/">Yanja Dajsuren</a>, Eindhoven University of Technology, the Netherlands </li>
@@ -28,15 +29,17 @@ We will offer talks by the following invited speakers:
 <li> <a href="http://www.prehofer.de/Research/Welcome.html">Christian Prehofer</a>, DENSO Automotive, Germany </li>
 <li> <a href="https://jstvssr.github.io/">Joost Visser</a>, Leiden University, the Netherlands </li>
 </ul>
+-->
 
 <!-- The SEN Symposium is organized by <a href="http://www.versen.nl/">VERSEN</a>. -->
 
-<p class="lead"> 
-Organising committee
+<p class="lead">
+Organising committee:
 <ul>
-<li>Helle Hvid Hansen, University of Groningen</li>
-<li>Ilias Gerostathopoulos, Vrije Universiteit Amsterdam</li>
-<li>Nils Jansen, Radboud University Nijmegen </li>
+<li>Andrea Capiluppi, University of Groningen</li>
+<li>Arnd Hartmanns, University of Twente</li>
+<li>Eleni Constantinou, TU Eindhoven</li>
+<li>Felipe Ebert, TU Eindhoven (publicity)</li>
 <li>Jurgen Vinju, Centrum Wiskunde & Informatica, TU Eindhoven (local organisation)</li>
 <li>Tijs van der Storm, Centrum Wiskunde & Informatica, University of Groningen (local organisation)</li>
 </ul>
