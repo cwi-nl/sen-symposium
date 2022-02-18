@@ -5,7 +5,20 @@ published: true
 
 ## Program SEN Symposium 2021
 
-TBD
+
+{: .table .table-striped}
+|        | <b>Friday, May 13th</b>
+|  10:00 | Admission and welcome
+|  10:10 | Keynote: [Prof Gregorio Robles](https://gsyc.urjc.es/~grex/) (Universidad Rey Juan Carlos, Madrid - Spain)
+|  11:00 | Break
+|  11:30 | Morning Session (2 lightning talks, 1 invited talk, 2 lightning talks)
+|  12:30 | Lunch
+|  13:30 | Afternoon Session (4 lightning talks, 1 invited talk, 4 lightning talks)
+|  15:00 | Break
+|  15:30 | Let's talk Session: {::nomarkdown}<ul><li>Panel session 1 - Best practices of teaching Software Engineering in the Netherlands</li><li>Panel session 2 - Best practices of writing project proposals on Software Engineering</li></ul>{:/}
+
+
+
 
 
 <!--

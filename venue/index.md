@@ -15,7 +15,9 @@ and virtual attendance via Zoom and Slack. If a physical event is not possible,
 then it will be a fully virtual event.
 -->
 
+The location of the event will be defined sson.
 
+<!--
 ## How to reach CWI by car
 [![alt text](logo.png)](https://www.cwi.nl/ "Centrum Wiskunde & Informatica")
 ### Navigation system
@@ -51,3 +53,4 @@ Take tram 9 to Diemen at Amsterdam Central Station. Get off at Kruislaan (situat
 ## Map
 
 <a href="http://www.amsterdamsciencepark.nl/fileadmin/user_upload/documents/Contact_and_route/A5_Map_of_Amsterdam_Science_Park_PDF.pdf"><img src="/assets/img/map.png"></a>
+-->

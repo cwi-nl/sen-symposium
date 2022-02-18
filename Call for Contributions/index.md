@@ -52,7 +52,7 @@ The link for the submission will be available soon.
 Please submit your one-page proposal (PDF) using EasyChair.
 
 [https://easychair.org/conferences/?conf=sen2021](https://easychair.org/conferences/?conf=sen2021)
--->>
+-->
 ### Important Dates
 
 To be defined.

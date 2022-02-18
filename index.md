@@ -39,7 +39,7 @@ Organising committee:
 <li>Andrea Capiluppi, University of Groningen</li>
 <li>Arnd Hartmanns, University of Twente</li>
 <li>Eleni Constantinou, TU Eindhoven</li>
-<li>Felipe Ebert, TU Eindhoven (publicity)</li>
+<li>Felipe Ebert, JADS (publicity)</li>
 <li>Jurgen Vinju, Centrum Wiskunde & Informatica, TU Eindhoven (local organisation)</li>
 <li>Tijs van der Storm, Centrum Wiskunde & Informatica, University of Groningen (local organisation)</li>
 </ul>
