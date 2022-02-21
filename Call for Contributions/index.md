@@ -24,15 +24,11 @@ them);
 There will be a (lightweight) evaluation of one-page talk proposals
 (PDF) describing the envisioned presentation at the symposium.
 
-The link for the submission will be available soon.
-
 Please submit your one-page proposal (PDF) using EasyChair.
 
 [https://easychair.org/my/conference?conf=sen2022](https://easychair.org/my/conference?conf=sen2022)
 
 ### Important Dates
-
-To be defined.
 
 Submission of talk proposals: TBD.
 
