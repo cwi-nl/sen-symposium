@@ -3,27 +3,6 @@ layout: default
 published: true
 ---
 
-<!--
-The next annual Software Engineering Nederland (SEN) symposium will
-take place in the afternoons (circa 13:00 - 17:30) of Thursday 18th
-and Friday 19th February 2021.
-
-The symposium is organized by VERSEN, the [Dutch National Association
-for Software Engineering](https://www.versen.nl/). The program will
-feature invited presentations and contributed “lightning talks”.
--->
-<!--
-### Invited Speakers
-
-* Barbora Buhnova (Masaryk University Brno)
-* Yanja Dajsuren (Eindhoven University of Technology)
-* Emitza Guzman (Vrije Universiteit Amsterdam)
-* Joost-Pieter Katoen (RWTH Aachen University)
-* Dennis Komm (ETH Zürich)
-* Burcu Kulahcioglu Ozkan (Delft University of Technology)
-* Joost Visser (Leiden University)
--->
-
 ## Call for Lightning Talks
 
 We invite all software engineering researchers in the Netherlands to
@@ -44,22 +23,19 @@ them);
 
 There will be a (lightweight) evaluation of one-page talk proposals
 (PDF) describing the envisioned presentation at the symposium.
-<!-- At submission time, authors can indicate whether they would also like to
-present a poster to complement their proposed talk. -->  
 
 The link for the submission will be available soon.
-<!--
+
 Please submit your one-page proposal (PDF) using EasyChair.
 
-[https://easychair.org/conferences/?conf=sen2021](https://easychair.org/conferences/?conf=sen2021)
--->
+[https://easychair.org/my/conference?conf=sen2022](https://easychair.org/my/conference?conf=sen2022)
+
 ### Important Dates
 
 To be defined.
-<!--
-Submission of talk proposals (extended): January 15, 2021, 12:00 CET (noon)
 
-Notification: January 20, 2021 (or earlier)
+Submission of talk proposals: TBD.
+
+Notification: TBD.
 
 We look forward to seeing you at the SEN symposium!
--->
