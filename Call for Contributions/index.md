@@ -19,7 +19,7 @@ for instance:
 them);
 * summarize a recently concluded PhD dissertation;
 * recently granted (or started) research projects;
-* motivate a “call to arms” for the broad VERSEN community.  
+* motivate a "call to arms" for the broad VERSEN community.  
 
 There will be a (lightweight) evaluation of one-page talk proposals
 (PDF) describing the envisioned presentation at the symposium.
@@ -30,8 +30,8 @@ Please submit your one-page proposal (PDF) using EasyChair.
 
 ### Important Dates
 
-Submission of talk proposals: TBD.
+Submission of talk proposals: April 22, 23:59 (CET).
 
-Notification: TBD.
+Notification: April 29.
 
 We look forward to seeing you at the SEN symposium!
