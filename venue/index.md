@@ -16,10 +16,14 @@ then it will be a fully virtual event.
 -->
 
 The SEN 2022 edition will take place at the **Het Trippenhuis** in Amsterdam. It is a amazing neoclassical mansion in the center of Amsterdam.
+<br/>
+<br/>
 
 Address:
-*Het Trippenhuis*
+*Het Trippenhuis*<br/>
 *Kloveniersburgwal 29, 1011JV, Amsterdam*
+<br/>
+<br/>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9743.820300865742!2d4.8995969!3d52.3712346!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfa02d7721e18381b!2sTrippenhuis!5e0!3m2!1sen!2snl!4v1646750510295!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
