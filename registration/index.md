@@ -4,7 +4,7 @@ title: Registration
 published: true
 ---
 
-Participation is free of charge, but we do ask all attendees to register beforehand. If you are not a member of VERSEN yet, please do consider to also become a member [here](/users/new) after registering for the symposium. You are very welcome to the community at any time.
+Participation is free of charge, but we do ask all attendees to register beforehand. If you are not a member of VERSEN yet, please do consider to also become a member [here](http://www.versen.nl/users/new) after registering for the symposium. You are very welcome to the community at any time.
 
 Please register using the form below:
 
