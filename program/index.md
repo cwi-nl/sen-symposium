@@ -16,7 +16,7 @@ published: true
 |  12:20 | Lightning Talks session 2
 |  12:30 | Lunch
 |  13:30 | Lightning Talks session 3
-|  13:50 | Invited Talk: [Georgiana Caltais](https://www.georgianacaltais.com/) (University of Twente, the Netherlands): TBD
+|  13:50 | Invited Talk: [Georgiana Caltais](https://www.georgianacaltais.com/) (University of Twente, the Netherlands): "Causal Reasoning for Concurrency"
 |  14:30 | Lightning Talks session 4
 |  15:00 | Break
 |  15:30 | Let's talk Session: {::nomarkdown}<ul><li>Panel session 1 - Best practices of teaching Software Engineering in the Netherlands</li><li>Panel session 2 - Best practices of writing project proposals on Software Engineering</li></ul>{:/}
