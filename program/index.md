@@ -19,7 +19,7 @@ published: true
 |  13:50 | Invited Talk: [Georgiana Caltais](https://www.georgianacaltais.com/) (University of Twente, the Netherlands): "Causal Reasoning for Concurrency"
 |  14:30 | Lightning Talks session 4
 |  15:00 | Break
-|  15:30 | Let's talk Session: {::nomarkdown}<ul><li>Panel session 1 - Best practices of writing project proposals on Software Engineering:</li>* Marieke Huisman - University of Twente<br/>* Ilias Gerostathopoulos - Vrije Universiteit Amsterdam<br/>* Moderator: Fabiano Dalpiaz - Utrecht University
+|  15:30 | Let's talk Session: <ul><li>Panel session 1 - Best practices of writing project proposals on Software Engineering:</li>* Marieke Huisman - University of Twente<br/>* Ilias Gerostathopoulos - Vrije Universiteit Amsterdam<br/>* Moderator: Fabiano Dalpiaz - Utrecht University
 <br/>
 <br/>
 <li>Panel session 2 - Best practices of teaching Software Engineering in the Netherlands:</li>
@@ -27,7 +27,7 @@ published: true
 * Bastiaan Heeren - Open Universiteit Nederland<br/>
 * Vadim Zaytsev - Twente University<br/>
 * Moderator: Andrea Capiluppi - University of Groningen<br/>
-</ul>{:/}
+</ul>
 
 
 
