@@ -10,7 +10,7 @@ published: true
 |        | <b>Friday, May 13th</b>
 |  9:00 | Doors open / coffee
 |  10:00 | Admission and welcome
-|  10:10 | Keynote: [Prof Gregorio Robles](https://gsyc.urjc.es/~grex/) (Universidad Rey Juan Carlos, Madrid - Spain)
+|  10:10 | Keynote: [Prof Gregorio Robles](https://gsyc.urjc.es/~grex/) (Universidad Rey Juan Carlos, Madrid - Spain): "Where has all the mining gone? A retrospective look at what Mining Software Repositories was going to bring to Software Engineering"
 |  11:00 | Break
 |  11:30 | Lightning Talks session 1: {::nomarkdown}<ul><li>Tien Tulili (University of Groningen): "Burnout in Software Engineering – A systematic Literature Review"</li></ul>{:/}
 |  11:40 | Invited Talk: [Ayushi Rastogi](https://ayushirastogi.github.io/) (University of Groningen, the Netherlands) and [Mirela Riveni](https://www.rug.nl/staff/m.riveni/) (University of Groningen, the Netherlands): "Digital Humanism: Views from Software Engineering and Social Computing"
