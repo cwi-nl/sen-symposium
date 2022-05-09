@@ -14,22 +14,16 @@ The symposium is organized by VERSEN, the <a href="https://www.versen.nl/">Dutch
 for Software Engineering</a>. The program will feature keynotes, invited
 presentations, and contributed “lightning talks”.
 
-The list of invited speakers will be available soon!
 
-<!--
 We will offer talks by the following invited speakers:
 
 <ul>
-<li> <a href="https://www.fi.muni.cz/~buhnova/">Barbora Buhnova</a>, Masaryk University Brno, Czech Republic </li>
-<li> <a href="https://www.tue.nl/en/research/researchers/yanja-dajsuren/">Yanja Dajsuren</a>, Eindhoven University of Technology, the Netherlands </li>
-<li> <a href="http://145.108.225.28/emitza-guzman/">Emitza Guzman</a>, Vrije Universiteit Amsterdam, the Netherlands </li>
-<li> <a href="https://www-i2.informatik.rwth-aachen.de/~katoen/">Joost-Pieter Katoen</a>, RWTH Aachen University, Germany </li>
-<li> <a href="https://people.inf.ethz.ch/dkomm/">Dennis Komm</a>, PH Graubünden, ETH Zürich, Switzerland </li>
-<li> <a href="https://burcuku.github.io/home/">Burcu Kulahcioglu Ozkan</a>, Delft University of Technology, the Netherlands </li>
-<li> <a href="http://www.prehofer.de/Research/Welcome.html">Christian Prehofer</a>, DENSO Automotive, Germany </li>
-<li> <a href="https://jstvssr.github.io/">Joost Visser</a>, Leiden University, the Netherlands </li>
+<li> <a href="https://gsyc.urjc.es/~grex/">Prof. Gregorio Robles</a>, Universidad Rey Juan Carlos, Madrid - Spain</li>
+<li> <a href="https://ayushirastogi.github.io/">Ayushi Rastogi</a>, University of Groningen, the Netherlands</li>
+<li> <a href="https://www.rug.nl/staff/m.riveni/">Mirela Riveni</a>, University of Groningen, the Netherlands</li>
+<li> <a href="https://www.georgianacaltais.com/">Georgiana Caltais</a>, University of Twente, the Netherlands</li>
 </ul>
--->
+
 
 <!-- The SEN Symposium is organized by <a href="http://www.versen.nl/">VERSEN</a>. -->
 
