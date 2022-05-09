@@ -14,7 +14,7 @@ The symposium is organized by VERSEN, the <a href="https://www.versen.nl/">Dutch
 for Software Engineering</a>. The program will feature keynotes, invited
 presentations, and contributed “lightning talks”.
 
-
+<br><br>
 We will offer talks by the following invited speakers:
 
 <ul>
