@@ -8,6 +8,7 @@ published: true
 
 {: .table .table-striped}
 |        | <b>Friday, May 13th</b>
+|  9:00 | Doors open / coffee
 |  10:00 | Admission and welcome
 |  10:10 | Keynote: [Prof Gregorio Robles](https://gsyc.urjc.es/~grex/) (Universidad Rey Juan Carlos, Madrid - Spain)
 |  11:00 | Break
@@ -20,6 +21,9 @@ published: true
 |  14:30 | Lightning Talks session 4
 |  15:00 | Break
 |  15:30 | Let's talk Session: {::nomarkdown}<br/><ul><li><b>Panel session 1 - Best practices of writing project proposals on Software Engineering:</b></li>- Marieke Huisman (University of Twente)<br/>- Ilias Gerostathopoulos (Vrije Universiteit Amsterdam)<br/>- <em>Moderator:</em> Fabiano Dalpiaz (Utrecht University)<br/><br/><li><b>Panel session 2 - Best practices of teaching Software Engineering in the Netherlands:</b></li>- Felienne Hermans (Leiden University)<br/>- Bastiaan Heeren (Open Universiteit Nederland)<br/>- Vadim Zaytsev (Twente University)<br/>- <em>Moderator:</em> Andrea Capiluppi (University of Groningen)<br/></ul>{:/}
+| 17:00 | Awards
+| 17:15 | Open Board Meeting / Drinks
+| 18:45 | End
 
 
 
