@@ -69,8 +69,53 @@ published: true
 </tr>
 <tr>
 <td style="text-align: justify">15:35-16:20</td>
-<td style="text-align: justify"><b class="keywords">Petra Heck and Luís Cruz; Roberto Verdecchia; Enrique Larios Vargas and Luís Cruz; Eleni Constantinou; Emitzá Guzmán; Héctor Cadavid; Ilias Gerostathopoulos; Yaping Luo, Tanja Vos, Pekka Aho and Kevin van der Vlist; Bert de Brock</b></td>
-<td style="text-align: justify">Lightning talks: "Software Engineering for Machine Learning Applications", "Architectural Technical Debt: Taming the Beast", "Software Engineering and Mental Health", "Software ecosystem evolution: Past research and the road ahead", "Analyzing User Feedback for Software Evolution", "A Software Engineering perspective on Systems of Systems architecting", "Architecture-Based Self-Adaptation: Open Challenges and Promising Directions", "ITEA3 IVVES project: Industrial-grade verification and validation of evolving systems (In Finance)", "Where should I publish?"</td>
+<td style="text-align: justify"><b class="keywords"></b></td>
+<td style="text-align: justify">Lightning talks:</td>
+</tr>
+<tr>
+<td style="border-color: transparent; text-align: justify"></td>
+<td style="border-color: transparent; text-align: justify"><b class="keywords">Petra Heck and Luís Cruz</b></td>
+<td style="border-color: transparent; text-align: justify">"Software Engineering for Machine Learning Applications"</td>
+</tr>
+<tr>
+<td style="border-color: transparent; text-align: justify"></td>
+<td style="border-color: transparent; text-align: justify"><b class="keywords">Roberto Verdecchia</b></td>
+<td style="border-color: transparent; text-align: justify">"Architectural Technical Debt: Taming the Beast"</td>
+</tr>
+<tr>
+<td style="border-color: transparent; text-align: justify"></td>
+<td style="border-color: transparent; text-align: justify"><b class="keywords">Enrique Larios Vargas and Luís Cruz</b></td>
+<td style="border-color: transparent; text-align: justify">"Software Engineering and Mental Health"</td>
+</tr>
+<tr>
+<td style="border-color: transparent; text-align: justify"></td>
+<td style="border-color: transparent; text-align: justify"><b class="keywords">Eleni Constantinou</b></td>
+<td style="border-color: transparent; text-align: justify">"Software ecosystem evolution: Past research and the road ahead"</td>
+</tr>
+<tr>
+<td style="border-color: transparent; text-align: justify"></td>
+<td style="border-color: transparent; text-align: justify"><b class="keywords">Emitzá Guzmán</b></td>
+<td style="border-color: transparent; text-align: justify">"Analyzing User Feedback for Software Evolution"</td>
+</tr>
+<tr>
+<td style="border-color: transparent; text-align: justify"></td>
+<td style="border-color: transparent; text-align: justify"><b class="keywords">Héctor Cadavid</b></td>
+<td style="border-color: transparent; text-align: justify">"A Software Engineering perspective on Systems of Systems architecting"</td>
+</tr>
+<tr>
+<td style="border-color: transparent; text-align: justify"></td>
+<td style="border-color: transparent; text-align: justify"><b class="keywords">Ilias Gerostathopoulos</b></td>
+<td style="border-color: transparent; text-align: justify">"Architecture-Based Self-Adaptation: Open Challenges and Promising Directions"</td>
+</tr>
+<tr>
+<td style="border-color: transparent; text-align: justify"></td>
+<td style="border-color: transparent; text-align: justify"><b class="keywords">Yaping Luo, Tanja Vos, Pekka Aho and Kevin van der Vlist</b></td>
+<td style="border-color: transparent; text-align: justify">"ITEA3 IVVES project: Industrial-grade verification and validation of evolving systems (In Finance)"</td>
+</tr>
+<tr>
+<td style="text-align: justify"></td>
+<td style="text-align: justify"><b class="keywords">Bert de Brock</b></td></b></td>
+<td style="text-align: justify">"Where should I publish?"</td>
 </tr>
 <tr>
 <td style="text-align: justify">16:20-17:00</td>
