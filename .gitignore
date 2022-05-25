@@ -1,4 +1,7 @@
 _site
+build
+cache
 .DS_Store
+.vscode
 .idea
 *.iml
