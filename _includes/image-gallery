@@ -1,0 +1,31 @@
+<style>
+  .gallery-row img {
+    margin-bottom: 15px;
+  }
+</style>
+
+<div class="container">
+  <div class="row gallery-row">
+  {%- assign gcount = 0 %}
+  {%- for file in site.static_files -%}
+    {%- unless file.path contains '-thumbnail' -%}
+    {%- if file.path contains include.folder -%}
+      {%- if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' or file.extname == '.png' or file.extname == '.PNG' -%}
+        {%- if gcount == 3 -%}
+  </div>
+  <div class="row gallery-row">
+          {%- assign gcount = 0 %}
+        {%- endif -%}
+        <div class="span3 text-center">
+          <a href="{{ file.path | relative_url }}" title="{{ filename }}" data-toggle="lightbox" data-gallery="gallery">
+            {%- assign thumbnail = file.path | replace: file.extname,"-thumbnail"| append: file.extname %}
+            <img src="{{ thumbnail | relative_url }}" alt="{{ filename }}" title="{{ filename }}"/>
+          </a>
+        </div>
+        {%- assign gcount = gcount | plus: 1 %}
+      {% endif -%}
+    {%- endif -%}
+    {%- endunless -%}
+  {%- endfor -%}
+  </div>
+</div>

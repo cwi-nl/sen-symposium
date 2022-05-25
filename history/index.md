@@ -7,6 +7,7 @@ Program and content of previous SEN symposiums can be found below,
 
 * [2022]
     * [program](./2022/program)
+    * [photos](./2022/photos)
 
 * [2021]
     * [program](./2021/program)
