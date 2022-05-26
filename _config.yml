@@ -9,10 +9,10 @@ lsi: false
 name: SEN Symposium
 title: SEN Symposium
 
-production_url: http://www.sen-symposium.nl
+production_url: https://www.sen-symposium.nl
 
 exclude: ["README.md"]
 
 blogname: SEN Symposium Blog 
 description: SEN Symposium Blog.
-url: http://www.sen-symposium.nl
+url: https://www.sen-symposium.nl

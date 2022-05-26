@@ -25,7 +25,7 @@ We will offer talks by the following invited speakers:
 </ul>
 
 
-<!-- The SEN Symposium is organized by <a href="http://www.versen.nl/">VERSEN</a>. -->
+<!-- The SEN Symposium is organized by <a href="https://www.versen.nl/">VERSEN</a>. -->
 
 <p class="lead">
 Organising committee:
