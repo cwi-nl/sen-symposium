@@ -4,7 +4,9 @@ published: true
 ---
 
 ## Program SEN Symposium 2023
-{: .table .table-striped} | | Friday, June 2nd | To be defined
+
+|        | <b>Friday, June 2nd </b>
+|        | To be defined
 
 
 <!--
