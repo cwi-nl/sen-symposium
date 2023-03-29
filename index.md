@@ -16,7 +16,7 @@ presentations, and contributed “lightning talks”.
 
 <br><br>
 
-We will offer talks by the following invited speakers:
+We will offer talks by the following keynote and invited speakers:
 
 <ul>
 <li> <a href="https://wp.mpi-sws.org/akschmuck/">Anne Kathrin Schmuck</a>, Max Planck Institute for Software Systems - Germany</li>
@@ -32,8 +32,8 @@ Organising committee:
 <ul>
 
 <li>Fernando Castor, Utrecht University</li>
-<li>Gemma Catolino - Jheronimus Academy of Data Science</li>
-<li>Sebastian Junges – Radboud Universiteit</li>
+<li>Gemma Catolino, Jheronimus Academy of Data Science</li>
+<li>Sebastian Junges, Radboud Universiteit</li>
 <li>Negar Alizadeh, Utrecht University (publicity)</li>
 
 <li>Jurgen Vinju, Centrum Wiskunde & Informatica, TU Eindhoven (local organisation)</li>
