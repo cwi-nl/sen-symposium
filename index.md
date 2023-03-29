@@ -15,6 +15,7 @@ for Software Engineering</a>. The program will feature keynotes, invited
 presentations, and contributed “lightning talks”.
 
 <br><br>
+
 We will offer talks by the following invited speakers:
 
 <ul>
@@ -24,16 +25,17 @@ We will offer talks by the following invited speakers:
 <li> <a href="https://fermadeiral.github.io/">Fernanda Madeiral</a>, Vrije Universiteit Amsterdam, the Netherlands</li>
 </ul>
 
-
 <!-- The SEN Symposium is organized by <a href="https://www.versen.nl/">VERSEN</a>. -->
 
 <p class="lead">
 Organising committee:
 <ul>
+
 <li>Fernando Castor, Utrecht University</li>
 <li>Gemma Catolino - Jheronimus Academy of Data Science</li>
 <li>Sebastian Junges – Radboud Universiteit</li>
 <li>Negar Alizadeh, Utrecht University (publicity)</li>
+
 <li>Jurgen Vinju, Centrum Wiskunde & Informatica, TU Eindhoven (local organisation)</li>
 <li>Tijs van der Storm, Centrum Wiskunde & Informatica, University of Groningen (local organisation)</li>
 </ul>
