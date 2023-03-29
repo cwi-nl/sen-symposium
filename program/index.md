@@ -3,6 +3,12 @@ layout: default
 published: true
 ---
 
+## Program SEN Symposium 2023
+{: .table .table-striped} | | Friday, June 2nd | To be defined
+
+
+<!--
+
 ## Program SEN Symposium 2022
 
 
@@ -30,7 +36,6 @@ published: true
 
 
 
-<!--
 #### List of accepted lightning talks
 
 * Petra Heck and Luís Cruz. Software Engineering for Machine Learning Applications

@@ -16,9 +16,9 @@ The next SEN symposium is organized by [Centrum Wiskunde & Informatica (CWI)](ht
 
 _Organising committee_
 
-* Andrea Capiluppi, University of Groningen
-* Arnd Hartmanns, University of Twente
-* Eleni Constantinou, TU Eindhoven
-* Felipe Ebert, JADS (publicity)
+* Fernando Castor, Utrecht University
+* Gemma Catolino, Jheronimus Academy of Data Science
+* Sebastian Junges, Radboud Universiteit
+* Negar Alizadeh, Utrecht University (publicity)
 * Jurgen Vinju, Centrum Wiskunde & Informatica, TU Eindhoven (local organisation)
 * Tijs van der Storm, Centrum Wiskunde & Informatica, University of Groningen (local organisation)

@@ -24,6 +24,7 @@ them);
 There will be a (lightweight) evaluation of one-page talk proposals
 (PDF) describing the envisioned presentation at the symposium.
 
+<!--
 Please submit your one-page proposal (PDF) using EasyChair.
 
 [https://easychair.org/my/conference?conf=sen2022](https://easychair.org/my/conference?conf=sen2022)
@@ -33,5 +34,14 @@ Please submit your one-page proposal (PDF) using EasyChair.
 Submission of talk proposals: April 22, 23:59 (CET).
 
 Notification: April 29.
+
+We look forward to seeing you at the SEN symposium!
+-->
+
+### Important Dates
+
+Submission of talk proposals: TBD
+
+Notification: TBD
 
 We look forward to seeing you at the SEN symposium!
