@@ -19,7 +19,9 @@ presentations, and contributed “lightning talks”.
 We will offer talks by the following keynote and invited speakers:
 
 <ul>
-<li> <a href="https://wp.mpi-sws.org/akschmuck/">Anne Kathrin Schmuck</a>, Max Planck Institute for Software Systems - Germany</li>
+
+<li> <a href="https://wp.mpi-sws.org/akschmuck/">Anne Kathrin Schmuck</a>, Max Planck Institute for Software Systems, Germany</li>
+<li> <a href="https://www.mauricioaniche.com/">Maurício Aniche</a>, Delft University of Technology - Adyen, the Netherlands</li>
 <li> <a href="https://binlin.info/index.html">Bin Lin</a>, Radboud University, the Netherlands</li>
 <li> <a href="https://www.uu.nl/staff/KLabunets">Kate Labunets</a>, Utrecht University, the Netherlands</li>
 <li> <a href="https://fermadeiral.github.io/">Fernanda Madeiral</a>, Vrije Universiteit Amsterdam, the Netherlands</li>
