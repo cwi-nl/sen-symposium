@@ -24,8 +24,7 @@ Address:<br/>
 <br/>
 <br/>
 
-<iframe src="https://www.google.com/maps/place/Centrum+Wiskunde+%26+Informatica/@52.3566777,4.9496761,17z/data=!4m15!1m8!3m7!1s0x47c60943849abc4f:0x2604d7fd642ac8fc!2sScience+Park+123,+1098+XG+Amsterdam!3b1!8m2!3d52.3566777!4d4.9518701!16s%2Fg%2F11csj6jb6p!3m5!1s0x47c60943849abc4f:0x7c49bc3f6dd03051!8m2!3d52.3565315!4d4.9519851!16zL20vMDJqa2Nm" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2436.75781138082!2d4.9496761!3d52.3566777!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c60943849abc4f%3A0x7c49bc3f6dd03051!2sCentrum%20Wiskunde%20%26%20Informatica!5e0!3m2!1sen!2snl!4v1681771250131!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <!--
 The SEN 2022 edition will take place at the **Het Trippenhuis** in Amsterdam. It is a amazing neoclassical mansion in the center of Amsterdam.
