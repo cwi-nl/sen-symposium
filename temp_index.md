@@ -20,7 +20,7 @@ We will offer talks by the following keynote and invited speakers:
 <ul>
     <li> <a href="https://wp.mpi-sws.org/akschmuck/">Anne Kathrin Schmuck</a>, Max Planck Institute for Software Systems, Germany</li>
     <button type="button" class="btn" data-toggle="collapse" data-target="#more_info">More info</button>
-     <div id="more_info" class="accordion-collapse collapse"  style="margin:3px 0">
+     <div id="more_info" class="collapse"  style="margin:3px 0">
       <b>Title:</b> The Power of Feedback -- in a Cyber-Physical World
         <br>
         <b>Abstract:</b>
