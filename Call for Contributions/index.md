@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Call for Contributions
 published: true
 ---
 
