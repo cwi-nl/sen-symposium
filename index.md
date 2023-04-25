@@ -36,7 +36,6 @@ We will offer talks by the following keynote and invited speakers:
                 In this talk she will discuss how a control-inspired view on formal methods for reliable software design enables us to utilize the power of feedback for robust and reliable self-adaptation in cyber-physical system design.<br><br>
             </p>
         </div>
-    <li> <a href="https://wp.mpi-sws.org/akschmuck/">Anne Kathrin Schmuck</a>, Max Planck Institute for Software Systems, Germany</li>
     <li> <a href="https://www.mauricioaniche.com/">Maurício Aniche</a>, Delft University of Technology - Adyen, the Netherlands</li>
     <li> <a href="https://binlin.info/index.html">Bin Lin</a>, Radboud University, the Netherlands</li>
     <li> <a href="https://www.uu.nl/staff/KLabunets">Kate Labunets</a>, Utrecht University, the Netherlands</li>
