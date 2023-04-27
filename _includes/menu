@@ -10,6 +10,10 @@
 {% assign link="/Call for Contributions/" %}
 {% include menu_item %}
 
+{% assign title="Lectures" %}
+{% assign link="/lectures/" %}
+{% include menu_item %}
+
 {% assign title="Program" %}
 {% assign link="/program/" %}
 {% include menu_item %}
