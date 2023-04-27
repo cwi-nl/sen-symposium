@@ -24,8 +24,9 @@ We will offer talks by the following keynote and invited speakers:
     <li> <a href="https://www.uu.nl/staff/KLabunets">Kate Labunets</a>, Utrecht University, the Netherlands</li>
     <li> <a href="https://fermadeiral.github.io/">Fernanda Madeiral</a>, Vrije Universiteit Amsterdam, the Netherlands</li>
 </ul>
+<p class="lead">
  For further details on the speeches kindly refer to <a href="./lectures/index.html">lectures</a> page.
-
+</p>
 <!-- The SEN Symposium is organized by <a href="https://www.versen.nl/">VERSEN</a>. -->
 <br/><br/>
 <p class="lead">
