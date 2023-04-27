@@ -11,7 +11,7 @@ We will offer talks by the following keynote and invited speakers:
 
 ### Keynote speakers
 
-#### <a href="https://wp.mpi-sws.org/akschmuck/"><b>Anne Kathrin Schmuck</b></a>, Max Planck Institute for Software Systems, Germany <br /> <br /> 
+#### <a href="https://wp.mpi-sws.org/akschmuck/"><b>Anne Kathrin Schmuck</b></a>, Max Planck Institute for Software Systems, Germany <br />
 **Title**\
 The Power of Feedback -- in a Cyber-Physical World
 
@@ -27,7 +27,7 @@ In this talk I will discuss how a control-inspired view on formal methods for re
 
 ### Invited speakers
 
-#### <a href="https://binlin.info/index.html"><b>Bin Lin</b></a>, Radboud University, the Netherlands <br /> <br /> 
+#### <a href="https://binlin.info/index.html"><b>Bin Lin</b></a>, Radboud University, the Netherlands <br />
 **Title**\
 Refactoring Detection and Impact Analysis: Promises, Pitfalls, and Opportunities
 
@@ -39,7 +39,7 @@ In this talk, I will introduce the state-of-the-art approaches for refactoring d
 </div>
 <br />
 
-#### <a href="https://www.uu.nl/staff/KLabunets"><b>Kate Labunets</b></a>, Utrecht University, the Netherlands<br /> <br /> 
+#### <a href="https://www.uu.nl/staff/KLabunets"><b>Kate Labunets</b></a>, Utrecht University, the Netherlands<br />
 **Title**\
 Securing Digital Systems: The Role of Human Factors and Usable Security
 

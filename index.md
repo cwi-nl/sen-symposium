@@ -18,32 +18,16 @@ presentations, and contributed “lightning talks”.
 We will offer talks by the following keynote and invited speakers:
 
 <ul>
-    <li> <a href="https://wp.mpi-sws.org/akschmuck/">Anne Kathrin Schmuck</a>, Max Planck Institute for Software Systems, Germany <a href="#more_info" data-toggle="collapse"><u> More info</u></a></li>
-         <div id="more_info" class="collapse"  style="text-align: justify">
-            <br>
-            <b>Title:</b>
-            <p style="font-weight: 200">
-                The Power of Feedback -- in a Cyber-Physical World
-            </p>
-            <b>Abstract:</b>
-            <p style="font-weight: 200">
-                Feedback allows systems to seamlessly and instantaneously adapt their behavior to their environment and is thereby the fundamental principle of life and technology; it lets animals breathe, it stabilizes the climate, it allows airplanes to fly, and the energy grid to operate. During the last century, control technology excelled at using this power of feedback to engineer extremely stable, robust, and reliable technological systems.
-            </p>
-            <p style="font-weight: 200">
-                With the ubiquity of computing devices in modern technological systems, feedback loops become cyber-physical; the laws of physics governing technological, social or biological processes interact with (cyber) computing systems in a highly nontrivial manner, pushing towards higher and higher levels of autonomy and self-regulation. While reliability of these systems remains of utmost importance, a fundamental understanding of cyber-physical feedback loops for large-scale CPS is lacking far behind.
-            </p>
-            <p style="font-weight: 200">
-                In this talk she will discuss how a control-inspired view on formal methods for reliable software design enables us to utilize the power of feedback for robust and reliable self-adaptation in cyber-physical system design.<br><br>
-            </p>
-        </div>
+    <li> <a href="https://wp.mpi-sws.org/akschmuck/">Anne Kathrin Schmuck</a>, Max Planck Institute for Software Systems, Germany </li>
     <li> <a href="https://www.mauricioaniche.com/">Maurício Aniche</a>, Delft University of Technology - Adyen, the Netherlands</li>
     <li> <a href="https://binlin.info/index.html">Bin Lin</a>, Radboud University, the Netherlands</li>
     <li> <a href="https://www.uu.nl/staff/KLabunets">Kate Labunets</a>, Utrecht University, the Netherlands</li>
     <li> <a href="https://fermadeiral.github.io/">Fernanda Madeiral</a>, Vrije Universiteit Amsterdam, the Netherlands</li>
 </ul>
+ For further details on the speeches kindly refer to <a href="./lectures/index.html">lectures</a> page.
 
 <!-- The SEN Symposium is organized by <a href="https://www.versen.nl/">VERSEN</a>. -->
-
+<br/><br/>
 <p class="lead">
 Organising committee:
 <ul>
