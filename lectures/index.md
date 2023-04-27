@@ -36,7 +36,7 @@ Refactoring, the process of improving the internal structure of a software syste
 
 In this talk, I will introduce the state-of-the-art approaches for refactoring detection and present several noteworthy empirical studies conducted using these approaches. Meanwhile, I will talk about the limitations of these approaches and the potential biases they might introduce. Finally, I will highlight some future directions for research in this domain.
 </div>
-
+<br />
 <a href="https://www.uu.nl/staff/KLabunets"><b>Kate Labunets</b></a>, Utrecht University, the Netherlands<br /> <br /> 
 **Title**\
 Securing Digital Systems: The Role of Human Factors and Usable Security
