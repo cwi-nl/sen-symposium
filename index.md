@@ -25,7 +25,7 @@ We will offer talks by the following keynote and invited speakers:
     <li> <a href="https://fermadeiral.github.io/">Fernanda Madeiral</a>, Vrije Universiteit Amsterdam, the Netherlands</li>
 </ul>
 <p class="lead">
- For further details on the speeches kindly refer to <a href="Speakers/index.html">Speakers</a> page.
+ For further details on the speeches kindly refer to <a href="speakers/index.html">Speakers</a> page.
 </p>
 <!-- The SEN Symposium is organized by <a href="https://www.versen.nl/">VERSEN</a>. -->
 <br/>

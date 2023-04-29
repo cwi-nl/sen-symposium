@@ -22,7 +22,7 @@ Feedback allows systems to seamlessly and instantaneously adapt their behavior t
 <br />
 With the ubiquity of computing devices in modern technological systems, feedback loops become cyber-physical; the laws of physics governing technological, social or biological processes interact with (cyber) computing systems in a highly nontrivial manner, pushing towards higher and higher levels of autonomy and self-regulation. While reliability of these systems remains of utmost importance, a fundamental understanding of cyber-physical feedback loops for large-scale CPS is lacking far behind.
 <br />
-In this talk I will discuss how a control-inspired view on formal methods for reliable software design enables us to utilize the power of feedback for robust and reliable self-adaptation in cyber-physical system design.<br><br>
+In this talk I will discuss how a control-inspired view on formal methods for reliable software design enables us to utilize the power of feedback for robust and reliable self-adaptation in cyber-physical system design.
 </div>
 <br/>
 
@@ -41,6 +41,7 @@ Secondly, I'll talk about what I would do differently if I returned to being a f
 <br/>
 Finally, I will focus on software engineering education. Researchers in the NL are required not only to do ground-breaking research, but also to educate the future generations of software engineers. Society needs engineers more than ever, and what we do in the classroom has a strong impact in the productivity of these engineers.
 </div>
+<br><br>
 
 ### Invited speakers
 
