@@ -9,7 +9,7 @@ published: true
 |        | <b>Friday, June 2nd</b>
 |  9:00 - 9:30 | Opening and reception
 |  9:30 - 10:15 | Keynote: [Maurício Aniche](https://www.mauricioaniche.com/) (Delft University of Technology - Adyen, the Netherlands): "From industry to academia and back again: what did I learn?"
-|  10:15 - 10:45 | Invited Speakers: [Fernanda Madeiral](https://fermadeiral.github.io/) (Vrije Universiteit Amsterdam, the Netherlands)
+|  10:15 - 10:45 | Invited Speakers: [Fernanda Madeiral](https://fermadeiral.github.io/) (Vrije Universiteit Amsterdam, the Netherlands): "Understanding code understandability factors: what do we know?"
 |  10:45 - 11:15 | Coffee Break
 |  11:15 - 11:45 | Invited Speakers: [Kate Labunets](https://www.uu.nl/staff/KLabunets) (Utrecht University, the Netherlands): "Securing Digital Systems: The Role of Human Factors and Usable Security"
 |  11:45 - 12:30 | Lightning Talk Session 1
