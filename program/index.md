@@ -5,9 +5,21 @@ published: true
 
 ## Program SEN Symposium 2023
 
-| <b>Friday, June 2nd </b> |
-| --- |
-| TBD |       
+{: .table .table-striped}
+|        | <b>Friday, June 2nd</b>
+|  9:00 - 9:30 | Opening and reception
+|  9:30 - 10:15 | Keynote: [Maurício Aniche](https://www.mauricioaniche.com/) (Delft University of Technology - Adyen, the Netherlands): "From industry to academia and back again: what did I learn?"
+|  10:15 - 10:45 | Invited Speakers: [Fernanda Madeiral](https://fermadeiral.github.io/) (Vrije Universiteit Amsterdam, the Netherlands)
+|  10:45 - 11:15 | Coffee Break
+|  11:15 - 11:45 | Invited Speakers: [Kate Labunets](https://www.uu.nl/staff/KLabunets) (Utrecht University, the Netherlands): "Securing Digital Systems: The Role of Human Factors and Usable Security"
+|  11:45 - 12:30 | Lightning Talk Session 1
+|  12:30 - 13:30 | Lunch
+|  13:30 - 14:15 | Keynote: [Anne Kathrin Schmuck](https://wp.mpi-sws.org/akschmuck/) (Max Planck Institute for Software Systems, Germany): "The Power of Feedback -- in a Cyber-Physical World"
+|  14:15 - 15:00 | Lightning Talks session 2
+|  15:00 - 15:30 | Coffee Break
+|  15:30 - 16:00| Invited Talk: [Georgiana Caltais](https://www.georgianacaltais.com/) (University of Twente, the Netherlands): "Causal Reasoning for Concurrency"
+|  15:30 - 16:00 | Invited Speakers: [Bin Lin](https://binlin.info/index.html) (Radboud University, the Netherlands): "Refactoring Detection and Impact Analysis: Promises, Pitfalls, and Opportunities"
+|  16:00 - 17:00 | Lightning Talk Session 3 & awards
 
 
 <!--
