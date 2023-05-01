@@ -200,3 +200,7 @@ tbody.collapse.in {
   -o-transition-timing-function: ease;
   transition-timing-function: ease;
 }
+
+td:first-child {
+    white-space: nowrap;
+}
