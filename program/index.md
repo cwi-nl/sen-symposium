@@ -17,7 +17,6 @@ published: true
 |  13:30 - 14:15 | Keynote: [Anne Kathrin Schmuck](https://wp.mpi-sws.org/akschmuck/) (Max Planck Institute for Software Systems, Germany): "The Power of Feedback -- in a Cyber-Physical World"
 |  14:15 - 15:00 | Lightning Talks session 2
 |  15:00 - 15:30 | Coffee Break
-|  15:30 - 16:00| Invited Talk: [Georgiana Caltais](https://www.georgianacaltais.com/) (University of Twente, the Netherlands): "Causal Reasoning for Concurrency"
 |  15:30 - 16:00 | Invited Speakers: [Bin Lin](https://binlin.info/index.html) (Radboud University, the Netherlands): "Refactoring Detection and Impact Analysis: Promises, Pitfalls, and Opportunities"
 |  16:00 - 17:00 | Lightning Talk Session 3 & awards
 
