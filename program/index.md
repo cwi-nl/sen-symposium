@@ -19,7 +19,7 @@ published: true
 |  15:00 - 15:30 | Coffee Break
 |  15:30 - 16:00 | Invited Speakers: [Bin Lin](https://binlin.info/index.html) (Radboud University, the Netherlands): "Refactoring Detection and Impact Analysis: Promises, Pitfalls, and Opportunities"
 |  16:00 - 17:00 | Lightning Talk Session 3 & awards
-
+|  17:00 - 18:30 | Drinks & snacks 
 
 <!--
 
