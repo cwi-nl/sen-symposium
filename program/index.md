@@ -7,7 +7,8 @@ published: true
 
 {: .table .table-striped}
 |        | <b>Friday, June 2nd</b>
-|  9:00 - 9:30 | Opening and reception
+|  9:00 - 9:20 | Walk in
+|  9:20 - 9:30 | Welcome
 |  9:30 - 10:15 | Keynote: [Maurício Aniche](https://www.mauricioaniche.com/): "From industry to academia and back again: what did I learn?"
 |  10:15 - 10:45 | Invited Speakers: [Fernanda Madeiral](https://fermadeiral.github.io/): "Understanding code understandability factors: what do we know?"
 |  10:45 - 11:15 | Coffee Break
