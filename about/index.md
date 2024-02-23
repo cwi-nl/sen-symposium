@@ -14,6 +14,7 @@ SEN is the national symposium for Dutch researchers in the field of _Software En
 
 The next SEN symposium is organized by [Centrum Wiskunde & Informatica (CWI)](http://www.cwi.nl) in collaboration with Universiteit Utrecht. CWI is the national research institute for mathematics and computer science in the Netherlands and is an institute of the Netherlands Organisation for Scientific Research ([NWO](http://www.nwo.nl)).
 
+<!-- 
 _Organising committee_
 
 * Fernando Castor, Utrecht University
@@ -22,3 +23,4 @@ _Organising committee_
 * Negar Alizadeh, Utrecht University (publicity)
 * Jurgen Vinju, Centrum Wiskunde & Informatica, TU Eindhoven (local organisation)
 * Tijs van der Storm, Centrum Wiskunde & Informatica, University of Groningen (local organisation)
+-->
