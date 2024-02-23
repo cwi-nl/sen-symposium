@@ -5,3 +5,5 @@ cache
 .vscode
 .idea
 *.iml
+Gemfile
+Gemfile.lock

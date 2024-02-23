@@ -4,14 +4,17 @@ layout: front
 
 <p class="lead">
 
-The 9th Dutch national symposium on software engineering (SEN) will be held on Friday 2nd June 2023.
+The 10th Dutch national symposium on software engineering (SEN) will be held on Friday 7th June 2024.
 <!--After the success of the SEN Symposium of 2014, 2016, 2017, 2018, 2019, and 2020, we cordially invite
 you to the seventh edition.-->
 At this conference we bring together the Dutch software engineering community.
 <br><br>
 
 The symposium is organized by VERSEN, the <a href="https://www.versen.nl/">Dutch National Association
-for Software Engineering</a>. The program will feature keynotes, invited
+for Software Engineering</a>. 
+<br><br>
+More information regarding SEN Symposium 2024 will come soon. Stay tuned!
+<!--The program will feature keynotes, invited
 presentations, and contributed “lightning talks”.
 
 <br><br>
@@ -26,9 +29,9 @@ We will offer talks by the following keynote and invited speakers:
 </ul>
 <p class="lead">
  For further details on the speeches kindly refer to <a href="speakers/index.html">Speakers</a> page.
-</p>
+</p>-->
 <!-- The SEN Symposium is organized by <a href="https://www.versen.nl/">VERSEN</a>. -->
-<br/>
+<!--<br/>
 <p class="lead">
 Organising committee:
 <ul>
@@ -42,4 +45,4 @@ Organising committee:
 <li>Tijs van der Storm, Centrum Wiskunde & Informatica, University of Groningen (local organisation)</li>
 </ul>
 
-<!--<a href="./posters/index.html">submit a poster/presentation</a> and <a href="./registration/index.html">register for free participation.</a> -->
+<a href="./posters/index.html">submit a poster/presentation</a> and <a href="./registration/index.html">register for free participation.</a> -->
