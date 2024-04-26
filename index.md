@@ -29,8 +29,8 @@ The SEN Symposium is organized by <a href="https://www.versen.nl/">VERSEN</a>.
 Organising committee:
 <ul>
 
-<li>Ayushi Rastogi, Groningen University</li>
-<li>Bin Lin, Radboud Universiteit</li>
+<li>Ayushi Rastogi,  University of Groningen</li>
+<li>Bin Lin, Radboud University</li>
 <li>Casper Bach Poulsen, Delft University of Technology</li>
 
 <li>Jurgen Vinju, Centrum Wiskunde & Informatica, TU Eindhoven (local organisation)</li>
