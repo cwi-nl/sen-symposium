@@ -29,12 +29,12 @@ The SEN Symposium is organized by <a href="https://www.versen.nl/">VERSEN</a>.
 Organising committee:
 <ul>
 
-<li>Ayushi Rastogi,  University of Groningen</li>
-<li>Bin Lin, Radboud University</li>
-<li>Casper Bach Poulsen, Delft University of Technology</li>
+<li><a href="https://ayushirastogi.github.io/">Ayushi Rastogi</a>,  University of Groningen</li>
+<li><a href="https://binlin.info/">Bin Lin</a>, Radboud University</li>
+<li><a href="http://casperbp.net/">Casper Bach Poulsen</a>, Delft University of Technology</li>
 
-<li>Jurgen Vinju, Centrum Wiskunde & Informatica, TU Eindhoven (local organisation)</li>
-<li>Tijs van der Storm, Centrum Wiskunde & Informatica, University of Groningen (local organisation)</li>
+<li><a href="https://homepages.cwi.nl/~jurgenv/">Jurgen Vinju</a>, Centrum Wiskunde & Informatica, TU Eindhoven (local organisation)</li>
+<li><a href="https://homepages.cwi.nl/~storm/">Tijs van der Storm</a>, Centrum Wiskunde & Informatica, University of Groningen (local organisation)</li>
 </ul>
 
 <a href="/Call for Contributions/">submit a lightning talk proposal</a> and/or <a href="/registration/">register for free participation.</a>
