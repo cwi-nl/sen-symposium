@@ -10,7 +10,7 @@ Below is the provisional program (subject to change) for SEN Symposium 2024.
 | 09:00 - 09:20 | Walk-in                                                                             |
 | 09:20 - 09:30 | Welcome                                                                             |
 | 09:30 - 10:15 | <b>Keynote:</b> [Massimiliano di Penta](https://mdipenta.github.io/) - title T.B.A. |
-| 10:15 - 10:45 | <b>Invited talk:</b> [Petra van den Bos](https://petravdbos.nl/) - title T.B.A.     |
+| 10:15 - 10:45 | <b>Invited talk:</b> [Petra van den Bos](https://petravdbos.nl/) - Where Model-Based Testing Meets Software Engineering    |
 | 10:45 - 11:15 | Coffee Break                                                                        |
 | 11:15 - 11:45 | <b>Invited talk:</b> [Andres Goens](https://goens.org/) - title T.B.A.              |
 | 11:45 - 12:25 | <b>Lightning talks:</b> [see call for contributions](/Call for Contributions)        |
