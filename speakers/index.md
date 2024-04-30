@@ -28,6 +28,9 @@ Model-based testing has been the promising next step in test-automation for a wh
 
 
 #### <a href="https://goens.org/"><b>Andrés Goens</b></a>, University of Amsterdam, the Netherlands<br />
+<br />
+#### <a href="https://malihehizadi.github.io/PersonalWebsite/"><b>Maliheh Izadi</b></a>, Delft University of Technology, the Netherlands<br />
+
 
 <br />
 
