@@ -18,6 +18,7 @@ We have the following confirmed keynote and invited speakers (<b>more to follow<
     <li> <a href="https://mdipenta.github.io/">Massimiliano Di Penta</a>, University of Sannio, Italy </li>
     <li> <a href="https://petravdbos.nl/">Petra van den Bos</a>, University of Twente, the Netherlands</li>
     <li> <a href="https://goens.org/">Andrés Goens</a>, University of Amsterdam, the Netherlands</li>
+    <li> <a href="https://malihehizadi.github.io/PersonalWebsite/">Maliheh Izadi</a>, Delft University of Technology, the Netherlands</li>
 </ul>
 <p class="lead">
  For further details on the speeches kindly refer to <a href="speakers/index.html">Speakers</a> page.
