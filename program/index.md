@@ -18,7 +18,7 @@ Below is the provisional program (subject to change) for SEN Symposium 2024.
 | 13:30 - 14:15 | <b>Keynote:</b> speaker T.B.A.                                                      |
 | 14:15 - 15:00 | <b>Lightning talks</b> [see call for contributions](/Call for Contributions)         |
 | 15:00 - 15:30 | Coffee Break                                                                        |
-| 15:30 - 16:00 | <b>Invited speaker:</b> T.B.A.                                                      |
+| 15:30 - 16:00 | <b>Invited speaker:</b> [Maliheh Izadi](https://malihehizadi.github.io/PersonalWebsite/) - title T.B.A.   |
 | 16:00 - 16:45 | Panel discussion on Generative AI in SE                                             |
 | 16:45 - 17:00 | Awards                                                                              |
 | 17:00 - 18:30 | Drinks & Snacks                                                                     |
