@@ -12,6 +12,7 @@ We promise an exciting program! Find below the confirmed speakers and **more to 
 ### Keynote 
 
 #### <a href="https://mdipenta.github.io/"><b>Massimiliano Di Penta</b></a>, University of Sannio, Italy <br />
+#### <a href="https://www.uu.nl/staff/GKKeller"><b>Gabriele Keller</b></a>, Utrecht University, the Netherlands <br />
 
 
 ### Invited speakers
