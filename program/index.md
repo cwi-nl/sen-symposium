@@ -15,7 +15,7 @@ Below is the provisional program (subject to change) for SEN Symposium 2024.
 | 11:15 - 11:45 | <b>Invited talk:</b> [Andres Goens](https://goens.org/) - Elevating Compiler Design: Abstractions for Effective Optimizations              |
 | 11:45 - 12:25 | <b>Lightning talks:</b> [see call for contributions](/Call for Contributions)        |
 | 12:25 - 13:30 | Lunch                                                                               |
-| 13:30 - 14:15 | <b>Keynote:</b> speaker T.B.A.                                                      |
+| 13:30 - 14:15 | <b>Keynote:</b> [Gabriele Keller](https://www.uu.nl/staff/GKKeller) - title T.B.A.                                                      |
 | 14:15 - 15:00 | <b>Lightning talks</b> [see call for contributions](/Call for Contributions)         |
 | 15:00 - 15:30 | Coffee Break                                                                        |
 | 15:30 - 16:00 | <b>Invited speaker:</b> [Maliheh Izadi](https://malihehizadi.github.io/PersonalWebsite/) - title T.B.A.   |
