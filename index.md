@@ -13,9 +13,10 @@ The program will feature keynotes, invited presentations, contributed “lightni
 
 <br><br>
 <!--We will offer talks by the following keynote and invited speakers:-->
-We have the following confirmed keynote and invited speakers (<b>more to follow</b>):
+We have the following confirmed keynote and invited speakers:
 <ul>
     <li> <a href="https://mdipenta.github.io/">Massimiliano Di Penta</a>, University of Sannio, Italy </li>
+    <li> <a href="https://www.uu.nl/staff/GKKeller/">Gabriele Keller</a>, Utrecht University, the Netherlands </li>
     <li> <a href="https://petravdbos.nl/">Petra van den Bos</a>, University of Twente, the Netherlands</li>
     <li> <a href="https://goens.org/">Andrés Goens</a>, University of Amsterdam, the Netherlands</li>
     <li> <a href="https://malihehizadi.github.io/PersonalWebsite/">Maliheh Izadi</a>, Delft University of Technology, the Netherlands</li>
