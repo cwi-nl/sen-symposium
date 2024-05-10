@@ -12,6 +12,16 @@ We promise an exciting program! Find below the confirmed speakers and **more to 
 ### Keynote 
 
 #### <a href="https://mdipenta.github.io/"><b>Massimiliano Di Penta</b></a>, University of Sannio, Italy <br />
+**Title**\
+Software Engineering Education in the LLM Era: Promises, Perils, and Risks
+
+**Abstract**
+<div style="text-align: justify">
+Large language models (LLMs) are radically changing everyday life, and anybody can leverage them for various tasks. Such tasks also include software development-related ones.  This has changed how software engineers conceive, implement, and evolve their software. Also, this has profoundly impacted software engineering research, making some of the previous achievements obsolete and forcing everybody to rethink what would have been valuable contributions in this context. What about software engineering education? In this talk, I will outline my experience in embedding AI-intensive tools in software engineering courses, highlighting the positive aspects, challenges and risks I learned from the feedback I received from my students.
+</div>
+<br />
+
+
 #### <a href="https://www.uu.nl/staff/GKKeller"><b>Gabriele Keller</b></a>, Utrecht University, the Netherlands <br />
 
 
