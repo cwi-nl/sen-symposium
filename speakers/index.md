@@ -43,7 +43,14 @@ Model-based testing has been the promising next step in test-automation for a wh
 Elevating Compiler Design: Abstractions for Effective Optimizations
 <br />
 #### <a href="https://malihehizadi.github.io/PersonalWebsite/"><b>Maliheh Izadi</b></a>, Delft University of Technology, the Netherlands<br />
+**Title**\
+Evaluating Large Language Models for Code Generation: a Practical View
 
+**Abstract**
+<div style="text-align: justify">
+This talk outlines the practical application and assessment of large language models tailored to the code generation task. It will cover our approach for evaluating these models’ performance in real-world software development environments and how we anlayzed the failed cases. I will also present promising research areas to address the existing challenges and improving these models.
+</div>
+<br />
 
 <br />
 
