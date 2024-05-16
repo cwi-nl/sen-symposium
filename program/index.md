@@ -9,7 +9,7 @@ Below is the provisional program (subject to change) for SEN Symposium 2024.
 |               | <b>Friday 7 June</b>                                                                |
 | 09:00 - 09:20 | Walk-in                                                                             |
 | 09:20 - 09:30 | Welcome                                                                             |
-| 09:30 - 10:15 | <b>Keynote:</b> [Gabriele Keller](https://www.uu.nl/staff/GKKeller) - title T.B.A. |
+| 09:30 - 10:15 | <b>Keynote:</b> [Gabriele Keller](https://www.uu.nl/staff/GKKeller) - From verified compilers to verified compilation |
 | 10:15 - 10:45 | <b>Invited talk:</b> [Petra van den Bos](https://petravdbos.nl/) - Where Model-Based Testing Meets Software Engineering    |
 | 10:45 - 11:15 | Coffee Break                                                                        |
 | 11:15 - 11:45 | <b>Invited talk:</b> [Andres Goens](https://goens.org/) - Elevating Compiler Design: Abstractions for Effective Optimizations              |
