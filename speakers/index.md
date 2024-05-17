@@ -57,6 +57,15 @@ Model-based testing has been the promising next step in test-automation for a wh
 #### <a href="https://goens.org/"><b>Andrés Goens</b></a>, University of Amsterdam, the Netherlands<br />
 **Title**\
 Elevating Compiler Design: Abstractions for Effective Optimizations
+
+
+**Abstract**
+<div style="text-align: justify">
+With applications becoming more complex and higher-level, we need compilers to keep up with these higher levels of complexity and abstractions.
+This talk focuses on how different levels of abstraction in compiler intermediate representations (IRs) can improve optimization techniques. We’ll discuss how abstractions make it easier to understand and implement optimizations. In particular, how abstraction can turn global, effectful reasoning into local, pure reasoning. We also discuss how optimizing and exploring these large design spaces in compiler development, with a focus on the tradeoffs between automation and manual optimization.
+</div>
+
+  <br />
 <br />
 #### <a href="https://malihehizadi.github.io/PersonalWebsite/"><b>Maliheh Izadi</b></a>, Delft University of Technology, the Netherlands<br />
 **Title**\
