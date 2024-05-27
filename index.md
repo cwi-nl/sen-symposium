@@ -39,4 +39,4 @@ Organising committee:
 <li><a href="https://homepages.cwi.nl/~storm/">Tijs van der Storm</a>, Centrum Wiskunde & Informatica, University of Groningen (local organisation)</li>
 </ul>
 
-<a href="/Call for Contributions/">submit a lightning talk proposal</a> and/or <a href="/registration/">register for free participation.</a>
+<a href="/program/">check our program</a> and <a href="/registration/">register for free participation.</a>
