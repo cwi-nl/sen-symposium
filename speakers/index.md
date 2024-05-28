@@ -33,7 +33,11 @@ Massimiliano Di Penta is a full professor at the University of Sannio, Italy. Hi
 **Title**\
 From verified compilers to verified compilation
 
+**Abstract**
+<div style="text-align: justify">
+Formally verifying software is expensive, but for software components on whose correctness all other software relies, such as operating systems and compilers, the effort can be worthwhile. Examples of this are the fully verified operating systems microkernel seL4, or on the compiler side, the CompCert and CakeML compilers. To be able to fully verify a compiler, however, we need full access to the source code, and both the language as well as the implementation have to be stable. An alternative, more light-weight approach is verified compilation: instead of proving that the compiler produces correct code for every input program, we can generate a machine checkable proof that the code for a specific program is correct. In this talk, I will discuss this approach, and show how this is used to verify the compilation of the Plutus compiler which compiles a subset of Haskell to low-level code deployed for smart contracts on the Cardano blockchain.</div>
 
+<br />
 **Bio**
 <div style="text-align: justify">
 Gabriele Keller is the head of the software engineering division and the chair of the software technology group at Utrecht University. Her research interest include programming language technology, in particular for functional and embedded languages, software verification, as well as high-performance computing. She received her PhD degree in 1999 from the Technical University, Berlin, on the implementation of irregular data-parallelism. She worked at the University of New South Wales in Australia, where she co-founded the programming language group, and moved to Utrecht University in 2018.
