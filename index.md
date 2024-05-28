@@ -9,7 +9,7 @@ The 10th Dutch national symposium on software engineering (SEN) will be held at 
 <br><br>
 At this symposium we bring together the Dutch software engineering, programming languages, and formal methods community. SEN symposium is organized by VERSEN, the <a href="https://www.versen.nl/">Dutch National Association
 for Software Engineering</a>. 
-The program will feature keynotes, invited presentations, contributed “lightning talks”, a panel discussion on Generative AI in SE.
+The program will feature keynotes, invited presentations, contributed “lightning talks”, and a panel discussion on Generative AI in SE.
 
 <br><br>
 <!--We will offer talks by the following keynote and invited speakers:-->
@@ -19,7 +19,6 @@ We have the following confirmed keynote and invited speakers:
     <li> <a href="https://www.uu.nl/staff/GKKeller/">Gabriele Keller</a>, Utrecht University, the Netherlands </li>
     <li> <a href="https://petravdbos.nl/">Petra van den Bos</a>, University of Twente, the Netherlands</li>
     <li> <a href="https://goens.org/">Andrés Goens</a>, University of Amsterdam, the Netherlands</li>
-    <li> <a href="https://malihehizadi.github.io/PersonalWebsite/">Maliheh Izadi</a>, Delft University of Technology, the Netherlands</li>
 </ul>
 <p class="lead">
  For further details on the speeches kindly refer to <a href="speakers/index.html">Speakers</a> page.
@@ -39,4 +38,4 @@ Organising committee:
 <li><a href="https://homepages.cwi.nl/~storm/">Tijs van der Storm</a>, Centrum Wiskunde & Informatica, University of Groningen (local organisation)</li>
 </ul>
 
-<a href="/program/">check our program</a> and <a href="/registration/">register for free participation.</a>
+<!-- <a href="/program/">check our program</a> and <a href="/registration/">register for free participation.</a> -->
