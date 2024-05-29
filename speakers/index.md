@@ -6,9 +6,6 @@ published: true
 
 ## Speakers
 
-We promise an exciting program! Find below the confirmed speakers and **more to follow**! 
-
-
 ### Keynote 
 
 #### <a href="https://mdipenta.github.io/"><b>Massimiliano Di Penta</b></a>, University of Sannio, Italy <br />
@@ -68,18 +65,6 @@ Elevating Compiler Design: Abstractions for Effective Optimizations
 With applications becoming more complex and higher-level, we need compilers to keep up with these higher levels of complexity and abstractions.
 This talk focuses on how different levels of abstraction in compiler intermediate representations (IRs) can improve optimization techniques. We’ll discuss how abstractions make it easier to understand and implement optimizations. In particular, how abstraction can turn global, effectful reasoning into local, pure reasoning. We also discuss how optimizing and exploring these large design spaces in compiler development, with a focus on the tradeoffs between automation and manual optimization.
 </div>
-
-  <br />
-<br />
-#### <a href="https://malihehizadi.github.io/PersonalWebsite/"><b>Maliheh Izadi</b></a>, Delft University of Technology, the Netherlands<br />
-**Title**\
-Evaluating Large Language Models for Code Generation: a Practical View
-
-**Abstract**
-<div style="text-align: justify">
-This talk outlines the practical application and assessment of large language models tailored to the code generation task. It will cover our approach for evaluating these models’ performance in real-world software development environments and how we anlayzed the failed cases. I will also present promising research areas to address the existing challenges and improving these models.
-</div>
-<br />
 
 <br />
 
