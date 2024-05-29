@@ -38,4 +38,8 @@ Organising committee:
 <li><a href="https://homepages.cwi.nl/~storm/">Tijs van der Storm</a>, Centrum Wiskunde & Informatica, University of Groningen (local organisation)</li>
 </ul>
 
+<p class="lead">
+We thank ASML for the generous sponsorship this year. <br>
+<img width="200" src="assets/img/ASML.png"> 
+</p>
 <!-- <a href="/program/">check our program</a> and <a href="/registration/">register for free participation.</a> -->
