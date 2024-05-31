@@ -10,7 +10,6 @@ The call for lightning talks has been closed. Please see below the accepted ligh
 - <b>Using Emerging Technologies for Requirements Elicitation Interview Training</b> - Fatma Basak Aydemir (Utrecht University), Binnur Gorer (Bogazici University)  
 - <b>LionWeb: Language Interfaces on the Web</b> - Meinte Boersma (DSL Consultancy), Jos Warmer (OpenModeling)   
 - <b>Decision Diagrams for Explainability</b> - Clemens Dubslaff (Eindhoven University of Technology)            
-- <b>Fine-Grained Analysis of Software Supply Chains</b> - Joseph Hejderup (Delft University of Technology)                                        
 - <b>On the acceptance by code reviewers of candidate security patches suggested by Automated Program Repair tools</b> - Aurora Papotti (Vrije Universiteit Amsterdam), Ranindya Paramitha (University of Trento), Fabio Massacci (University of Trento and Vrije Universiteit Amsterdam)  
 - <b>Licensing of code in LLM training datasets</b> - Jonathan Katzy (Delft University of Technology), Razvan Popescu (Delft University of Technology), Arie van Deursen (Delft University of Technology), Maliheh Izadi (Delft University of Technology)                     
 - <b>Optimizing Data Analytics Workflows through User-driven Experimentation</b> - Keerthiga Rajenthiram (Vrije Universiteit Amsterdam)      
