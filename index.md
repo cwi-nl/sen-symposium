@@ -20,12 +20,10 @@ We have the following confirmed keynote and invited speakers:
     <li> <a href="https://lmove.github.io/">Lina Ochoa Venegas</a>, Eindhoven University of Technology, the Netherlands</li>
     <li> <a href="https://tobias.kap.pe/">Tobias Kappé</a>, Leiden University, the Netherlands</li>
 </ul>
-<p class="lead">
- For further details on the speeches kindly refer to <a href="speakers/index.html">Speakers</a> page.
+<!--- <p class="lead">
+ For further details on the speeches kindly refer to <a href="speakers/index.html">Speakers</a> page. 
+ </p> --->
 
-<!-- </p>
-The SEN Symposium is organized by <a href="https://www.versen.nl/">VERSEN</a>.
-<br/> -->
 <p class="lead">
 Organising committee:
 <ul>
@@ -36,6 +34,7 @@ Organising committee:
 
 <li><a href="https://homepages.cwi.nl/~storm/">Tijs van der Storm</a>, Centrum Wiskunde & Informatica, University of Groningen (local organisation)</li>
 </ul>
+</p>
 
 <!--- <p class="lead">
 We thank ASML for the generous sponsorship this year. <br>
