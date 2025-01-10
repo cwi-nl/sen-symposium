@@ -14,7 +14,7 @@ in hybrid form with physical attendance at the Turing room at the CWI,
 and virtual attendance via Zoom and Slack. If a physical event is not possible,
 then it will be a fully virtual event.
 -->
-The SEN 2024 edition will take place at the <a href="https://www.cwi.nl/en/">Centrum Wiskunde & Informatica (CWI)</a> in Amsterdam.
+The SEN 2025 edition will take place at the <a href="https://www.cwi.nl/en/">Centrum Wiskunde & Informatica (CWI)</a> in Amsterdam.
 <br/>
 <br/>
 
