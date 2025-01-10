@@ -3,7 +3,6 @@ layout: default
 published: true
 ---
 ## Program SEN Symposium 2024
-Below is the tentative program for SEN Symposium 2024.
 
 {: .table .table-striped}
 |               | <b>Friday 7 June</b>                                                                |
